@@ -1,0 +1,7112 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lvly WordPress Theme Core Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-15 12:46+0800\n"
+"POT-Revision-Date: Wed Feb 17 2016 19:58:53 GMT+0800 (Ulaanbaatar Standard "
+"Time)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: Themewaves <themewaves@gmail.com>\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e\n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: custom-post-type.php:11
+msgid "Media Categories"
+msgstr ""
+
+#: custom-post-type.php:11
+msgid "Media Category"
+msgstr ""
+
+#: custom-post-type.php:27 custom-post-type.php:38
+msgid "Portfolios"
+msgstr ""
+
+#: custom-post-type.php:28 vc_extend/elements/tw_portfolio_options.php:264
+#: vc_extend/waves-templates.php:48
+msgid "Portfolio"
+msgstr ""
+
+#: custom-post-type.php:29 custom-post-type.php:87 custom-post-type.php:88
+#: custom-post-type.php:145 custom-post-type.php:146
+msgid "Add New"
+msgstr ""
+
+#: custom-post-type.php:30
+msgid "Add New Portfolio"
+msgstr ""
+
+#: custom-post-type.php:31
+msgid "Edit Portfolio"
+msgstr ""
+
+#: custom-post-type.php:32
+msgid "New Portfolio"
+msgstr ""
+
+#: custom-post-type.php:33
+msgid "All Portfolios"
+msgstr ""
+
+#: custom-post-type.php:34
+msgid "View Portfolio"
+msgstr ""
+
+#: custom-post-type.php:35
+msgid "Search Portfolios"
+msgstr ""
+
+#: custom-post-type.php:36
+msgid "No Portfolio found"
+msgstr ""
+
+#: custom-post-type.php:37
+msgid "No Portfolio found in Trash"
+msgstr ""
+
+#: custom-post-type.php:54
+msgid "Portfolio Categories"
+msgstr ""
+
+#: custom-post-type.php:54
+msgid "Portfolio Category"
+msgstr ""
+
+#: custom-post-type.php:64
+msgid "Portfolio Title"
+msgstr ""
+
+#: custom-post-type.php:65 custom-post-type.php:123 custom-post-type.php:181
+msgid "Categories"
+msgstr ""
+
+#: custom-post-type.php:85 custom-post-type.php:91
+msgid "Content Blocks"
+msgstr ""
+
+#: custom-post-type.php:86 custom-post-type.php:96
+#: vc_extend/elements/tw_block_options.php:21
+msgid "Content Block"
+msgstr ""
+
+#: custom-post-type.php:89
+msgid "Edit Block"
+msgstr ""
+
+#: custom-post-type.php:90
+msgid "New Content Block"
+msgstr ""
+
+#: custom-post-type.php:92
+msgid "View Content Block"
+msgstr ""
+
+#: custom-post-type.php:93
+msgid "Search Content Blocks"
+msgstr ""
+
+#: custom-post-type.php:94
+msgid "No Content Block found"
+msgstr ""
+
+#: custom-post-type.php:95
+msgid "No Content Block found in Trash"
+msgstr ""
+
+#: custom-post-type.php:112
+msgid "Block Categories"
+msgstr ""
+
+#: custom-post-type.php:112
+msgid "Block Category"
+msgstr ""
+
+#: custom-post-type.php:122
+msgid "Block Title"
+msgstr ""
+
+#: custom-post-type.php:143 custom-post-type.php:149
+msgid "Jobs"
+msgstr ""
+
+#: custom-post-type.php:144 custom-post-type.php:154
+#: vc_extend/elements/tw_job_options.php:106
+msgid "Job"
+msgstr ""
+
+#: custom-post-type.php:147
+msgid "Edit Job"
+msgstr ""
+
+#: custom-post-type.php:148
+msgid "New Job"
+msgstr ""
+
+#: custom-post-type.php:150
+msgid "View Job"
+msgstr ""
+
+#: custom-post-type.php:151
+msgid "Search Jobs"
+msgstr ""
+
+#: custom-post-type.php:152
+msgid "No Job found"
+msgstr ""
+
+#: custom-post-type.php:153
+msgid "No Job found in Trash"
+msgstr ""
+
+#: custom-post-type.php:170
+msgid "Job Categories"
+msgstr ""
+
+#: custom-post-type.php:170
+msgid "Job Category"
+msgstr ""
+
+#: custom-post-type.php:180 vc_extend/elements/tw_job_options.php:24
+msgid "Job Title"
+msgstr ""
+
+#: custom-post-type.php:218
+msgid "All Categories"
+msgstr ""
+
+#: lvly-core.php:85 vc_extend/font-icons.php:616
+msgid "Share"
+msgstr ""
+
+#: lvly-core.php:88 vc_extend/font-icons.php:842
+msgid "Facebook"
+msgstr ""
+
+#: lvly-core.php:89 vc_extend/font-icons.php:843 widgets/widget_twitter.php:90
+msgid "Twitter"
+msgstr ""
+
+#: lvly-core.php:90
+msgid "Google"
+msgstr ""
+
+#: lvly-core.php:97
+msgid "Share this"
+msgstr ""
+
+#: lvly-core.php:98
+msgid "Pin It"
+msgstr ""
+
+#: lvly-core.php:99
+msgid "Tweet"
+msgstr ""
+
+#: metabox/job-options.php:11 vc_extend/elements/tw_job_options.php:29
+#: vc_extend/elements/tw_job_options.php:38
+msgid "Job Code"
+msgstr ""
+
+#: metabox/job-options.php:17 vc_extend/elements/tw_job_options.php:47
+#: vc_extend/elements/tw_job_options.php:56
+msgid "Job Location"
+msgstr ""
+
+#: metabox/job-options.php:23 vc_extend/elements/tw_job_options.php:65
+#: vc_extend/elements/tw_job_options.php:74
+msgid "Job Department"
+msgstr ""
+
+#: metabox/job-options.php:29
+msgid "Job Close Date"
+msgstr ""
+
+#: metabox/job-options.php:35
+msgid "Job Settings"
+msgstr ""
+
+#: metabox/metabox-render.php:34
+msgid "Delete Slide"
+msgstr ""
+
+#: metabox/metabox-render.php:35
+msgid "Up"
+msgstr ""
+
+#: metabox/metabox-render.php:36
+msgid "Down"
+msgstr ""
+
+#: metabox/metabox-render.php:46
+msgid "Add Slide"
+msgstr ""
+
+#: metabox/metabox-render.php:89
+msgid "Your Custom BG Image URL"
+msgstr ""
+
+#: metabox/metabox-render.php:90
+msgid "Insert image"
+msgstr ""
+
+#: metabox/metabox-render.php:106 metabox/metabox-render.php:246
+#: metabox/page-options.php:13 metabox/page-options.php:14
+#: metabox/page-options.php:34 metabox/page-options.php:116
+#: metabox/post-format.php:96 metabox/post-format.php:109
+#: metabox/post-format.php:139 vc_extend/elements/tw_blog_options.php:205
+#: vc_extend/elements/tw_portfolio_options.php:220
+#: vc_extend/elements/tw_post_carousel_options.php:9 vc_extend/init.php:895
+#: widgets/widget_post.php:161
+msgid "Default"
+msgstr ""
+
+#: metabox/metabox-render.php:106 vc_extend/elements/tw_job_options.php:31
+#: vc_extend/elements/tw_job_options.php:49
+#: vc_extend/elements/tw_job_options.php:67
+#: vc_extend/elements/tw_job_options.php:85
+#: vc_extend/elements/vc_row_options.php:54
+msgid "True"
+msgstr ""
+
+#: metabox/metabox-render.php:106 vc_extend/elements/vc_row_options.php:53
+msgid "False"
+msgstr ""
+
+#: metabox/metabox-render.php:138 vc_extend/font-icons.php:221
+#: vc_extend/font-icons.php:777 vc_extend/init.php:80
+msgid "Edit"
+msgstr ""
+
+#: metabox/metabox-render.php:177
+msgid "Edit Icon"
+msgstr ""
+
+#: metabox/metabox-render.php:186
+msgid "Edit Gallery"
+msgstr ""
+
+#: metabox/metabox-render.php:186
+msgid "Upload Images"
+msgstr ""
+
+#: metabox/metabox-render.php:217 metabox/port-options.php:128
+#: metabox/port-options.php:171 vc_extend/elements/tw_blog_options.php:131
+#: vc_extend/elements/tw_blog_options.php:204
+#: vc_extend/elements/tw_course_carousel_options.php:11
+#: vc_extend/elements/tw_gallery_options.php:88
+#: vc_extend/elements/tw_portfolio_options.php:178
+#: vc_extend/elements/tw_portfolio_options.php:219
+#: vc_extend/elements/tw_post_carousel_options.php:22 vc_extend/init.php:223
+#: vc_extend/init.php:235 vc_extend/init.php:387
+msgid "None"
+msgstr ""
+
+#: metabox/metabox-render.php:243
+msgid "Create Menu on Apperance -> Menu section and then Assign it here."
+msgstr ""
+
+#: metabox/page-options.php:13 metabox/page-options.php:14
+msgid "Disable"
+msgstr ""
+
+#: metabox/page-options.php:14
+msgid "Show"
+msgstr ""
+
+#: metabox/page-options.php:15
+msgid "Choose from Content Block"
+msgstr ""
+
+#: metabox/page-options.php:18
+msgid "Top bar Content"
+msgstr ""
+
+#: metabox/page-options.php:19
+msgid ""
+"Default will follow Theme Options or choose it from Content Block Custom Post "
+"Type (CPT)"
+msgstr ""
+
+#: metabox/page-options.php:29
+msgid "Header Layout"
+msgstr ""
+
+#: metabox/page-options.php:38
+msgid "Classic"
+msgstr ""
+
+#: metabox/page-options.php:42
+msgid "Opacity Menu"
+msgstr ""
+
+#: metabox/page-options.php:46
+msgid "Full menu"
+msgstr ""
+
+#: metabox/page-options.php:50 metabox/post-format.php:98
+msgid "Left Sidebar"
+msgstr ""
+
+#: metabox/page-options.php:58
+msgid "Header Container Type"
+msgstr ""
+
+#: metabox/page-options.php:59
+msgid "Default will follow the Theme Option panel"
+msgstr ""
+
+#: metabox/page-options.php:69
+msgid "Header Color Type"
+msgstr ""
+
+#: metabox/page-options.php:70
+msgid "Please choose the Heading Color Scheme"
+msgstr ""
+
+#: metabox/page-options.php:81
+msgid "Header Scroll Up Style"
+msgstr ""
+
+#: metabox/page-options.php:82
+msgid "Please choose the Scroll Up for following functions"
+msgstr ""
+
+#: metabox/page-options.php:97 metabox/post-format.php:116
+msgid "Page Title or Slider Content"
+msgstr ""
+
+#: metabox/page-options.php:98 metabox/page-options.php:109
+#: metabox/page-options.php:190
+msgid "Default will follow Theme Options or choose it from Content Block CPT"
+msgstr ""
+
+#: metabox/page-options.php:108 metabox/page-options.php:189
+#: metabox/post-format.php:123
+msgid "Footer Content"
+msgstr ""
+
+#: metabox/page-options.php:124
+msgid "Choose the OnePage-able Menu"
+msgstr ""
+
+#: metabox/page-options.php:125
+msgid ""
+"You should create the OnePage-able Menu first and then assign that Custom "
+"Created menu here"
+msgstr ""
+
+#: metabox/page-options.php:133 metabox/page-options.php:205
+msgid "Set Left Side Content"
+msgstr ""
+
+#: metabox/page-options.php:134 metabox/page-options.php:206
+msgid ""
+"You need to Insert the Content or Slider then choose it from Content Block "
+"section. Right Section will display the Core Editor content"
+msgstr ""
+
+#: metabox/page-options.php:142
+msgid "Set FullScreen Slide Animation"
+msgstr ""
+
+#: metabox/page-options.php:146
+msgid "Rotate Room"
+msgstr ""
+
+#: metabox/page-options.php:147
+msgid "Rotate Room Carousel"
+msgstr ""
+
+#: metabox/page-options.php:148
+msgid "Rotate Cube"
+msgstr ""
+
+#: metabox/page-options.php:149
+msgid "Rotate Side"
+msgstr ""
+
+#: metabox/page-options.php:150
+msgid "Rotate Fall"
+msgstr ""
+
+#: metabox/page-options.php:151
+msgid "Rotate Newspaper"
+msgstr ""
+
+#: metabox/page-options.php:152
+msgid "Rotate Fush Move"
+msgstr ""
+
+#: metabox/page-options.php:153
+msgid "Rotate Fush Full"
+msgstr ""
+
+#: metabox/page-options.php:154
+msgid "Rotate UnFold"
+msgstr ""
+
+#: metabox/page-options.php:155
+msgid "Rotate Slide"
+msgstr ""
+
+#: metabox/page-options.php:156
+msgid "Rotate Slides"
+msgstr ""
+
+#: metabox/page-options.php:157
+msgid "Move"
+msgstr ""
+
+#: metabox/page-options.php:158
+msgid "Move Fade 1"
+msgstr ""
+
+#: metabox/page-options.php:159
+msgid "Move Fade 2"
+msgstr ""
+
+#: metabox/page-options.php:160
+msgid "Move Easing"
+msgstr ""
+
+#: metabox/page-options.php:161
+msgid "Move Scale"
+msgstr ""
+
+#: metabox/page-options.php:162
+msgid "Scale"
+msgstr ""
+
+#: metabox/page-options.php:163
+msgid "Scale Move"
+msgstr ""
+
+#: metabox/page-options.php:164
+msgid "Scale Center"
+msgstr ""
+
+#: metabox/page-options.php:165
+msgid "Flip"
+msgstr ""
+
+#: metabox/page-options.php:176
+msgid "Set FullScreen Content"
+msgstr ""
+
+#: metabox/page-options.php:177
+msgid ""
+"You need to Insert the Content from Content Block section. Any Section will "
+"displayed on FullScreen and Add Slide and Assign it"
+msgstr ""
+
+#: metabox/page-options.php:184 vc_extend/elements/tw_slider_options.php:68
+msgid "Slide"
+msgstr ""
+
+#: metabox/page-options.php:198
+msgid "Set SplitScreen Content"
+msgstr ""
+
+#: metabox/page-options.php:199
+msgid "Please assign the Left and Right side both."
+msgstr ""
+
+#: metabox/page-options.php:213 vc_extend/elements/tw_counterup_options.php:8
+#: vc_extend/elements/tw_heading_options.php:51
+#: vc_extend/elements/tw_image_options.php:16
+#: vc_extend/elements/tw_timeline_options.php:10
+msgid "Left"
+msgstr ""
+
+#: metabox/page-options.php:214 vc_extend/elements/tw_counterup_options.php:8
+#: vc_extend/elements/tw_heading_options.php:52
+#: vc_extend/elements/tw_image_options.php:17
+#: vc_extend/elements/tw_timeline_options.php:11
+msgid "Right"
+msgstr ""
+
+#: metabox/page-options.php:220
+msgid "Page Settings"
+msgstr ""
+
+#: metabox/page-options.php:221
+msgid "One Page Settings"
+msgstr ""
+
+#: metabox/page-options.php:222
+msgid "Magazine Blog Settings"
+msgstr ""
+
+#: metabox/page-options.php:223
+msgid "FullScreen Settings"
+msgstr ""
+
+#: metabox/page-options.php:224
+msgid "SplitScreen Settings"
+msgstr ""
+
+#: metabox/port-options.php:18 vc_extend/elements/tw_heading_options.php:27
+#: vc_extend/elements/tw_timeline_item_options.php:19
+msgid "Sub Title"
+msgstr ""
+
+#: metabox/port-options.php:19
+msgid "It will display the Bottom of the Title area"
+msgstr ""
+
+#: metabox/port-options.php:28
+msgid "Choose Single Layout"
+msgstr ""
+
+#: metabox/port-options.php:33 vc_extend/elements/tw_blog_options.php:57
+#: vc_extend/elements/tw_blog_options.php:146
+msgid "Layout 1"
+msgstr ""
+
+#: metabox/port-options.php:37 vc_extend/elements/tw_blog_options.php:58
+#: vc_extend/elements/tw_blog_options.php:147
+msgid "Layout 2"
+msgstr ""
+
+#: metabox/port-options.php:41
+msgid "Layout 3"
+msgstr ""
+
+#: metabox/port-options.php:45
+msgid "Layout 4"
+msgstr ""
+
+#: metabox/port-options.php:49
+msgid "Layout 5"
+msgstr ""
+
+#: metabox/port-options.php:53
+msgid "Layout 6"
+msgstr ""
+
+#: metabox/port-options.php:60
+msgid "Use Sticky Sidebar ?"
+msgstr ""
+
+#: metabox/port-options.php:74
+msgid "Custom Class for Media"
+msgstr ""
+
+#: metabox/port-options.php:75 metabox/port-options.php:90
+#: metabox/port-options.php:105
+msgid "Empty to Default"
+msgstr ""
+
+#: metabox/port-options.php:89
+msgid "Custom Class for Content"
+msgstr ""
+
+#: metabox/port-options.php:104
+msgid "Custom Class for Content Sub"
+msgstr ""
+
+#: metabox/port-options.php:117
+msgid "Featured Image Type"
+msgstr ""
+
+#: metabox/port-options.php:118 metabox/post-format.php:105
+msgid "Featured Image can be different Layouts and sizes and you can set it here"
+msgstr ""
+
+#: metabox/port-options.php:122
+msgid "Featured Image"
+msgstr ""
+
+#: metabox/port-options.php:123
+msgid "Gallery slider"
+msgstr ""
+
+#: metabox/port-options.php:124
+msgid "Gallery 1 column"
+msgstr ""
+
+#: metabox/port-options.php:125
+msgid "Gallery 2 columns"
+msgstr ""
+
+#: metabox/port-options.php:126
+msgid "Gallery 3 columns"
+msgstr ""
+
+#: metabox/port-options.php:127 vc_extend/elements/tw_video_options.php:48
+#: vc_extend/font-icons.php:766 vc_extend/waves-templates.php:84
+msgid "Video"
+msgstr ""
+
+#: metabox/port-options.php:133 vc_extend/elements/tw_gallery_options.php:111
+msgid "Gallery"
+msgstr ""
+
+#: metabox/port-options.php:143
+msgid "Gallery Slider Light ?"
+msgstr ""
+
+#: metabox/port-options.php:155
+msgid "Gallery Slider Nav ?"
+msgstr ""
+
+#: metabox/port-options.php:167
+msgid "Gallery Slider Dots ?"
+msgstr ""
+
+#: metabox/port-options.php:172
+msgid "Inside"
+msgstr ""
+
+#: metabox/port-options.php:173
+msgid "Under"
+msgstr ""
+
+#: metabox/port-options.php:184
+msgid "Video Embed"
+msgstr ""
+
+#: metabox/port-options.php:197
+msgid "Insert Client Name"
+msgstr ""
+
+#: metabox/port-options.php:198 metabox/port-options.php:205
+msgid "You can change the text from Theme Options"
+msgstr ""
+
+#: metabox/port-options.php:204
+msgid "Insert Client URI"
+msgstr ""
+
+#: metabox/port-options.php:211
+msgid "Read More URI"
+msgstr ""
+
+#: metabox/port-options.php:212
+msgid "Insert the Custom URI. You can change the Read More text from Theme Options"
+msgstr ""
+
+#: metabox/port-options.php:221
+msgid "Portfolio Links to Custom URI"
+msgstr ""
+
+#: metabox/port-options.php:222
+msgid "Portfolio will Redirect to your inserted URI"
+msgstr ""
+
+#: metabox/port-options.php:231
+msgid "Extend Portfolio Content"
+msgstr ""
+
+#: metabox/port-options.php:232
+msgid ""
+"You should create the Content in \"Content Block\" CPT and then assign it here"
+msgstr ""
+
+#: metabox/port-options.php:245 metabox/post-format.php:160
+msgid "Choose the Metro Layout."
+msgstr ""
+
+#: metabox/port-options.php:246 metabox/post-format.php:161
+msgid ""
+"This option will only work if you selected Metro Layout on Blog Element on Page"
+msgstr ""
+
+#: metabox/port-options.php:251 metabox/post-format.php:166
+#: vc_extend/elements/tw_text_options.php:10 vc_extend/init.php:326
+#: widgets/widget_instagram.php:75
+msgid "Small"
+msgstr ""
+
+#: metabox/port-options.php:255 metabox/post-format.php:170
+msgid "Vertical"
+msgstr ""
+
+#: metabox/port-options.php:259 metabox/post-format.php:174
+msgid "Horizontal"
+msgstr ""
+
+#: metabox/port-options.php:263 metabox/post-format.php:178
+#: vc_extend/elements/tw_social_options.php:52
+#: vc_extend/elements/tw_text_options.php:11 vc_extend/init.php:326
+#: widgets/widget_instagram.php:76
+msgid "Large"
+msgstr ""
+
+#: metabox/port-options.php:267 metabox/post-format.php:182
+#: vc_extend/elements/tw_heading_options.php:65
+msgid "Full"
+msgstr ""
+
+#: metabox/port-options.php:278 vc_extend/elements/tw_portfolio_options.php:29
+#: vc_extend/init.php:724
+msgid "Parallax"
+msgstr ""
+
+#: metabox/port-options.php:282
+#, php-format
+msgid ""
+"Check out the UiKit Parallax Documentation and then you can see it more. "
+"Example: bgy: -200; <a href=\"%s\">Doc</a>"
+msgstr ""
+
+#: metabox/port-options.php:285 vc_extend/init.php:733
+msgid "Overlay"
+msgstr ""
+
+#: metabox/port-options.php:292
+msgid ""
+"Example:0.4 - It means 40% Opacity.  If you set the Background Color with Image "
+"then you can set the Opacity here and Your Images will cover your Background "
+"Color"
+msgstr ""
+
+#: metabox/port-options.php:295 vc_extend/elements/tw_map_options.php:163
+msgid "Background Color"
+msgstr ""
+
+#: metabox/port-options.php:302
+msgid "Portfolio Single Settings"
+msgstr ""
+
+#: metabox/port-options.php:303
+msgid "Metro & Parallax Portfolio Settings"
+msgstr ""
+
+#: metabox/post-format.php:8
+msgid "Insert Gallery Images"
+msgstr ""
+
+#: metabox/post-format.php:9
+msgid "If you set the Featured Image then it will be only shown on Post Single"
+msgstr ""
+
+#: metabox/post-format.php:15
+msgid "MP3 File URI"
+msgstr ""
+
+#: metabox/post-format.php:16
+msgid "The URI to the .mp3 audio file"
+msgstr ""
+
+#: metabox/post-format.php:21 metabox/post-format.php:29
+msgid "Embeded Code"
+msgstr ""
+
+#: metabox/post-format.php:22 metabox/post-format.php:30
+msgid ""
+"If you're not using self hosted video then you can include embeded code here"
+msgstr ""
+
+#: metabox/post-format.php:35
+msgid "Minimum Height"
+msgstr ""
+
+#: metabox/post-format.php:36
+msgid "Insert the Minimum Height by px"
+msgstr ""
+
+#: metabox/post-format.php:44
+msgid "Insert Quote"
+msgstr ""
+
+#: metabox/post-format.php:49
+msgid "Insert author"
+msgstr ""
+
+#: metabox/post-format.php:54 metabox/post-format.php:75
+msgid "Set Custom Background image?"
+msgstr ""
+
+#: metabox/post-format.php:61 metabox/post-format.php:69
+msgid "The URI"
+msgstr ""
+
+#: metabox/post-format.php:62
+msgid "Insert the status URI."
+msgstr ""
+
+#: metabox/post-format.php:70
+msgid "Insert the URI you wish to link to."
+msgstr ""
+
+#: metabox/post-format.php:91
+msgid "Single layout"
+msgstr ""
+
+#: metabox/post-format.php:92
+msgid ""
+"You can set the Single Layout in Specific Posts and choose the Layouts on this "
+"list"
+msgstr ""
+
+#: metabox/post-format.php:97
+msgid "Right Sidebar"
+msgstr ""
+
+#: metabox/post-format.php:99
+msgid "Fullwidth Content"
+msgstr ""
+
+#: metabox/post-format.php:100
+msgid "Narrow Content"
+msgstr ""
+
+#: metabox/post-format.php:104
+msgid "Featured Image Style"
+msgstr ""
+
+#: metabox/post-format.php:110
+msgid "Featured area Small"
+msgstr ""
+
+#: metabox/post-format.php:111
+msgid "Featured area Large"
+msgstr ""
+
+#: metabox/post-format.php:112
+msgid "Featured area None"
+msgstr ""
+
+#: metabox/post-format.php:117 metabox/post-format.php:124
+msgid "Default will follow Theme Options or choose it from Content Block CPT."
+msgstr ""
+
+#: metabox/post-format.php:133
+msgid "Set Custom Layout in Blog Layouts"
+msgstr ""
+
+#: metabox/post-format.php:134
+msgid "You can use the it on Blog Elements > Grid or Metro Layouts"
+msgstr ""
+
+#: metabox/post-format.php:143
+msgid "Title & Meta is Inside the Image"
+msgstr ""
+
+#: metabox/post-format.php:147
+msgid "Title & Meta is Under the Image"
+msgstr ""
+
+#: metabox/post-format.php:151
+msgid "Content is Under the Image"
+msgstr ""
+
+#: metabox/post-format.php:198
+msgid "Gallery Settings"
+msgstr ""
+
+#: metabox/post-format.php:199
+msgid "Quote Settings"
+msgstr ""
+
+#: metabox/post-format.php:200
+msgid "Audio Settings"
+msgstr ""
+
+#: metabox/post-format.php:201
+msgid "Video Settings"
+msgstr ""
+
+#: metabox/post-format.php:202
+msgid "Status Settings"
+msgstr ""
+
+#: metabox/post-format.php:203
+msgid "Link Settings"
+msgstr ""
+
+#: metabox/post-format.php:204
+msgid "Post Single Settings"
+msgstr ""
+
+#: vc_extend/elements/tw_app_slider_options.php:6
+msgid "Slider Images"
+msgstr ""
+
+#: vc_extend/elements/tw_app_slider_options.php:7
+msgid "Select images from Media Library."
+msgstr ""
+
+#: vc_extend/elements/tw_app_slider_options.php:12
+#: vc_extend/elements/tw_fancybox_options.php:13
+#: vc_extend/elements/tw_flipbox_item_options.php:6
+#: vc_extend/elements/tw_iconbox_options.php:13
+#: vc_extend/elements/tw_pricinglist_options.php:60
+#: vc_extend/elements/tw_process_item_options.php:19
+#: vc_extend/elements/tw_testimonial_item_options.php:27
+#: vc_extend/elements/tw_text_options.php:17
+#: vc_extend/elements/tw_timeline_item_options.php:13
+msgid "Content"
+msgstr ""
+
+#: vc_extend/elements/tw_app_slider_options.php:27
+msgid "App Slider"
+msgstr ""
+
+#: vc_extend/elements/tw_app_slider_options.php:28
+#: vc_extend/elements/tw_images_carousel_options.php:18
+msgid "Check the Carousel Tab and Customize it."
+msgstr ""
+
+#: vc_extend/elements/tw_block_options.php:13
+msgid "Select Block"
+msgstr ""
+
+#: vc_extend/elements/tw_block_options.php:22
+msgid "Time Saving Pre-Defined Templates from Content Block CPT."
+msgstr ""
+
+#: vc_extend/elements/tw_blog_options.php:4
+msgid "No sidebar"
+msgstr ""
+
+#: vc_extend/elements/tw_blog_options.php:15
+#: vc_extend/elements/tw_post_carousel_options.php:61
+msgid "Post category"
+msgstr ""
+
+#: vc_extend/elements/tw_blog_options.php:19
+#: vc_extend/elements/tw_job_options.php:11
+#: vc_extend/elements/tw_portfolio_options.php:11
+#: vc_extend/elements/tw_post_slider_options.php:11
+msgid "Select category."
+msgstr ""
+
+#: vc_extend/elements/tw_blog_options.php:24
+#: vc_extend/elements/tw_course_carousel_options.php:60
+#: vc_extend/elements/tw_job_options.php:16
+#: vc_extend/elements/tw_portfolio_options.php:16
+#: vc_extend/elements/tw_post_carousel_options.php:71
+#: vc_extend/elements/tw_post_slider_options.php:15
+msgid "Count"
+msgstr ""
+
+#: vc_extend/elements/tw_blog_options.php:28
+#: vc_extend/elements/tw_blog_options.php:36
+#: vc_extend/elements/tw_blog_options.php:73
+#: vc_extend/elements/tw_course_carousel_options.php:29
+#: vc_extend/elements/tw_course_carousel_options.php:64
+#: vc_extend/elements/tw_job_options.php:19
+#: vc_extend/elements/tw_portfolio_carousel_options.php:21
+#: vc_extend/elements/tw_portfolio_options.php:19
+#: vc_extend/elements/tw_portfolio_options.php:101
+#: vc_extend/elements/tw_post_carousel_options.php:40
+#: vc_extend/elements/tw_post_carousel_options.php:75
+#: vc_extend/elements/tw_product_carousel_options.php:21
+msgid "Only integer value."
+msgstr ""
+
+#: vc_extend/elements/tw_blog_options.php:33
+#: vc_extend/elements/tw_course_carousel_options.php:26
+#: vc_extend/elements/tw_portfolio_options.php:98
+#: vc_extend/elements/tw_post_carousel_options.php:37
+msgid "Excerpt Word Count"
+msgstr ""
+
+#: vc_extend/elements/tw_blog_options.php:40
+msgid "Blog Layout"
+msgstr ""
+
+#: vc_extend/elements/tw_blog_options.php:43
+#: vc_extend/elements/tw_gallery_options.php:89
+#: vc_extend/elements/tw_portfolio_options.php:179
+#: vc_extend/elements/tw_portfolio_options.php:193
+#: vc_extend/elements/tw_social_options.php:9 widgets/widget_instagram.php:88
+#: widgets/widget_socials.php:97
+msgid "Simple"
+msgstr ""
+
+#: vc_extend/elements/tw_blog_options.php:44
+#: vc_extend/elements/tw_blog_options.php:206
+#: vc_extend/elements/tw_portfolio_options.php:221
+msgid "Minimal"
+msgstr ""
+
+#: vc_extend/elements/tw_blog_options.php:45
+#: vc_extend/elements/tw_portfolio_options.php:28 vc_extend/font-icons.php:245
+#: vc_extend/font-icons.php:774
+msgid "Grid"
+msgstr ""
+
+#: vc_extend/elements/tw_blog_options.php:46
+#: vc_extend/elements/tw_gallery_options.php:15
+#: vc_extend/elements/tw_portfolio_options.php:26
+msgid "Masonry"
+msgstr ""
+
+#: vc_extend/elements/tw_blog_options.php:47
+#: vc_extend/elements/tw_portfolio_options.php:27
+msgid "Metro"
+msgstr ""
+
+#: vc_extend/elements/tw_blog_options.php:54
+msgid "Layout of Metro Blog"
+msgstr ""
+
+#: vc_extend/elements/tw_blog_options.php:70
+msgid "Metro Height"
+msgstr ""
+
+#: vc_extend/elements/tw_blog_options.php:81
+#: vc_extend/elements/tw_portfolio_carousel_options.php:79
+#: vc_extend/elements/tw_portfolio_options.php:130
+msgid "Disable Thumb Crop"
+msgstr ""
+
+#: vc_extend/elements/tw_blog_options.php:82
+#: vc_extend/elements/tw_portfolio_carousel_options.php:80
+#: vc_extend/elements/tw_portfolio_options.php:131
+msgid ""
+"Your uploaded Image will display Original Images. Note: You should Prepare your "
+"Images before upload. Otherwise"
+msgstr ""
+
+#: vc_extend/elements/tw_blog_options.php:84
+#: vc_extend/elements/tw_blog_options.php:215
+#: vc_extend/elements/tw_course_carousel_options.php:20
+#: vc_extend/elements/tw_gallery_options.php:52
+#: vc_extend/elements/tw_gallery_options.php:76
+#: vc_extend/elements/tw_heading_options.php:15
+#: vc_extend/elements/tw_heading_options.php:36
+#: vc_extend/elements/tw_image_options.php:42
+#: vc_extend/elements/tw_map_options.php:138
+#: vc_extend/elements/tw_portfolio_carousel_options.php:50
+#: vc_extend/elements/tw_portfolio_carousel_options.php:60
+#: vc_extend/elements/tw_portfolio_carousel_options.php:70
+#: vc_extend/elements/tw_portfolio_carousel_options.php:82
+#: vc_extend/elements/tw_portfolio_options.php:78
+#: vc_extend/elements/tw_portfolio_options.php:88
+#: vc_extend/elements/tw_portfolio_options.php:111
+#: vc_extend/elements/tw_portfolio_options.php:121
+#: vc_extend/elements/tw_portfolio_options.php:133
+#: vc_extend/elements/tw_portfolio_options.php:230
+#: vc_extend/elements/tw_post_carousel_options.php:31
+#: vc_extend/elements/tw_post_slider_options.php:64
+#: vc_extend/elements/tw_video_options.php:27
+#: vc_extend/elements/vc_accordion_options.php:23
+#: vc_extend/elements/vc_accordion_options.php:30
+#: vc_extend/elements/vc_row_inner_options.php:62 vc_extend/init.php:367
+#: vc_extend/init.php:604 vc_extend/init.php:616 vc_extend/init.php:624
+#: vc_extend/init.php:636 vc_extend/init.php:644 vc_extend/init.php:652
+#: vc_extend/init.php:660 vc_extend/init.php:668 vc_extend/init.php:796
+#: vc_extend/init.php:807 vc_extend/init.php:844 vc_extend/init.php:864
+msgid "Yes"
+msgstr ""
+
+#: vc_extend/elements/tw_blog_options.php:92
+#: vc_extend/elements/tw_blog_options.php:94
+#: vc_extend/elements/tw_course_carousel_options.php:37
+#: vc_extend/elements/tw_course_carousel_options.php:39
+#: vc_extend/elements/tw_post_carousel_options.php:48
+#: vc_extend/elements/tw_post_carousel_options.php:50
+#: vc_extend/elements/tw_post_slider_options.php:33
+msgid "Read More"
+msgstr ""
+
+#: vc_extend/elements/tw_blog_options.php:95
+#: vc_extend/elements/tw_course_carousel_options.php:41
+#: vc_extend/elements/tw_post_carousel_options.php:52
+#: vc_extend/elements/tw_post_slider_options.php:37
+msgid "If you leave it blank then Read More button will not be Visible!"
+msgstr ""
+
+#: vc_extend/elements/tw_blog_options.php:103
+#: vc_extend/elements/tw_portfolio_carousel_options.php:25
+#: vc_extend/elements/tw_portfolio_options.php:37
+msgid "Content-Type"
+msgstr ""
+
+#: vc_extend/elements/tw_blog_options.php:106
+#: vc_extend/elements/tw_portfolio_carousel_options.php:28
+#: vc_extend/elements/tw_portfolio_options.php:40
+msgid "Under the image"
+msgstr ""
+
+#: vc_extend/elements/tw_blog_options.php:107
+#: vc_extend/elements/tw_portfolio_carousel_options.php:29
+#: vc_extend/elements/tw_portfolio_options.php:41
+msgid "Inside the image"
+msgstr ""
+
+#: vc_extend/elements/tw_blog_options.php:118
+#: vc_extend/elements/tw_portfolio_carousel_options.php:58
+#: vc_extend/elements/tw_portfolio_options.php:109
+msgid "Display Category Under Image?"
+msgstr ""
+
+#: vc_extend/elements/tw_blog_options.php:128
+msgid "Display Content Link Under Image?"
+msgstr ""
+
+#: vc_extend/elements/tw_blog_options.php:132
+msgid "Read More Button"
+msgstr ""
+
+#: vc_extend/elements/tw_blog_options.php:133
+msgid "Date Permalink Text"
+msgstr ""
+
+#: vc_extend/elements/tw_blog_options.php:143
+msgid "Inside Image Layout - Content Style"
+msgstr ""
+
+#: vc_extend/elements/tw_blog_options.php:157
+#: vc_extend/elements/tw_portfolio_options.php:159
+msgid "Grid elements per Row"
+msgstr ""
+
+#: vc_extend/elements/tw_blog_options.php:172
+#: vc_extend/elements/tw_portfolio_options.php:141
+#: vc_extend/elements/vc_row_inner_options.php:46
+msgid "UK Grid Gutter option"
+msgstr ""
+
+#: vc_extend/elements/tw_blog_options.php:175
+#: vc_extend/elements/tw_portfolio_options.php:144
+#: vc_extend/elements/vc_row_inner_options.php:54
+#: vc_extend/elements/vc_row_options.php:44
+msgid "0 - Collapse"
+msgstr ""
+
+#: vc_extend/elements/tw_blog_options.php:176
+#: vc_extend/elements/tw_gallery_options.php:64
+#: vc_extend/elements/tw_portfolio_options.php:145
+msgid "10px - XSmall"
+msgstr ""
+
+#: vc_extend/elements/tw_blog_options.php:177
+#: vc_extend/elements/tw_gallery_options.php:65
+#: vc_extend/elements/tw_portfolio_options.php:146
+#: vc_extend/elements/vc_row_inner_options.php:50
+#: vc_extend/elements/vc_row_options.php:40
+msgid "15px - Small"
+msgstr ""
+
+#: vc_extend/elements/tw_blog_options.php:178
+#: vc_extend/elements/tw_gallery_options.php:66
+#: vc_extend/elements/tw_portfolio_options.php:147
+#: vc_extend/elements/vc_row_inner_options.php:51
+#: vc_extend/elements/vc_row_options.php:41
+msgid "30px - Medium"
+msgstr ""
+
+#: vc_extend/elements/tw_blog_options.php:179
+#: vc_extend/elements/tw_gallery_options.php:63
+#: vc_extend/elements/tw_portfolio_options.php:148
+#: vc_extend/elements/vc_row_inner_options.php:52
+#: vc_extend/elements/vc_row_options.php:42
+msgid "40px - Default"
+msgstr ""
+
+#: vc_extend/elements/tw_blog_options.php:180
+#: vc_extend/elements/tw_gallery_options.php:67
+#: vc_extend/elements/tw_portfolio_options.php:149
+#: vc_extend/elements/vc_row_inner_options.php:53
+#: vc_extend/elements/vc_row_options.php:43
+msgid "70px - Large"
+msgstr ""
+
+#: vc_extend/elements/tw_blog_options.php:190
+msgid "Sidebar ?"
+msgstr ""
+
+#: vc_extend/elements/tw_blog_options.php:201
+#: vc_extend/elements/tw_portfolio_options.php:216
+msgid "Pagination Style"
+msgstr ""
+
+#: vc_extend/elements/tw_blog_options.php:207
+#: vc_extend/elements/tw_portfolio_options.php:222
+msgid "Infinite"
+msgstr ""
+
+#: vc_extend/elements/tw_blog_options.php:213
+#: vc_extend/elements/tw_portfolio_options.php:228
+msgid "Auto Load Infinite Scroll?"
+msgstr ""
+
+#: vc_extend/elements/tw_blog_options.php:223
+#: vc_extend/elements/tw_portfolio_options.php:238
+msgid "Infinite Auto Offset"
+msgstr ""
+
+#: vc_extend/elements/tw_blog_options.php:237 vc_extend/waves-templates.php:12
+msgid "Blog"
+msgstr ""
+
+#: vc_extend/elements/tw_blog_options.php:238
+msgid "Main Blog Posts with Styles and Customizable options."
+msgstr ""
+
+#: vc_extend/elements/tw_button_options.php:8
+msgid "Button"
+msgstr ""
+
+#: vc_extend/elements/tw_button_options.php:9
+msgid "Note: Shortcode is available on WYSIWYG editor."
+msgstr ""
+
+#: vc_extend/elements/tw_call_to_action_options.php:6
+msgid "Insert Your Title"
+msgstr ""
+
+#: vc_extend/elements/tw_call_to_action_options.php:8
+msgid "Wanna Work With Us?"
+msgstr ""
+
+#: vc_extend/elements/tw_call_to_action_options.php:13
+msgid "Insert Your Description"
+msgstr ""
+
+#: vc_extend/elements/tw_call_to_action_options.php:19
+msgid "Button or Any Shortcode"
+msgstr ""
+
+#: vc_extend/elements/tw_call_to_action_options.php:21
+msgid ""
+"[tw_button link=\"#\" target=\"_blank\" color=\"#151515\" size=\"small\" style="
+"\"border uk-button-radius\" hover=\"dark-hover\" icon_class=\"ion-ios-arrow-thin-"
+"right\" margin=\"0,0,0,0\" animate_icon=\"true\"]Read More[/tw_button]"
+msgstr ""
+
+#: vc_extend/elements/tw_call_to_action_options.php:30
+msgid "Call to Action"
+msgstr ""
+
+#: vc_extend/elements/tw_call_to_action_options.php:31
+msgid "Note: Insert any shortcodes on WYSIWYG editor."
+msgstr ""
+
+#: vc_extend/elements/tw_chart_circle_options.php:6
+msgid "Pie Title"
+msgstr ""
+
+#: vc_extend/elements/tw_chart_circle_options.php:8
+msgid "Photoshop"
+msgstr ""
+
+#: vc_extend/elements/tw_chart_circle_options.php:16
+msgid "Pie Percent"
+msgstr ""
+
+#: vc_extend/elements/tw_chart_circle_options.php:26
+msgid "Pie Track Width"
+msgstr ""
+
+#: vc_extend/elements/tw_chart_circle_options.php:32
+msgid "Pie Track Color"
+msgstr ""
+
+#: vc_extend/elements/tw_chart_circle_options.php:38
+msgid "Pie Bar Color"
+msgstr ""
+
+#: vc_extend/elements/tw_chart_circle_options.php:44
+msgid "Pie Icon Color"
+msgstr ""
+
+#: vc_extend/elements/tw_chart_circle_options.php:56
+msgid "Chart Circle"
+msgstr ""
+
+#: vc_extend/elements/tw_chart_circle_options.php:57
+msgid "Pie Chart with Customizable options."
+msgstr ""
+
+#: vc_extend/elements/tw_client_item_options.php:5
+#: vc_extend/elements/tw_counterup_options.php:29
+#: vc_extend/elements/tw_fancybox_options.php:6
+#: vc_extend/elements/tw_flipbox_item_options.php:37
+#: vc_extend/elements/tw_iconbox_options.php:6
+#: vc_extend/elements/tw_pricinglist_options.php:53
+#: vc_extend/elements/tw_pricingtable_options.php:12
+#: vc_extend/elements/tw_process_item_options.php:6
+#: vc_extend/elements/tw_testimonial_item_options.php:6
+#: vc_extend/elements/tw_timeline_item_options.php:6
+#: vc_extend/elements/vc_accordion_tab_options.php:6
+#: vc_extend/elements/vc_tab_options.php:6 widgets/widget_instagram.php:69
+#: widgets/widget_socials.php:82 widgets/widget_twitter.php:94
+msgid "Title"
+msgstr ""
+
+#: vc_extend/elements/tw_client_item_options.php:12
+#: vc_extend/elements/tw_testimonial_item_options.php:20
+#: vc_extend/font-icons.php:541
+msgid "Link"
+msgstr ""
+
+#: vc_extend/elements/tw_client_item_options.php:15
+#: vc_extend/elements/tw_testimonial_item_options.php:23
+msgid "Insert link URL"
+msgstr ""
+
+#: vc_extend/elements/tw_client_item_options.php:19
+msgid "Client Image"
+msgstr ""
+
+#: vc_extend/elements/tw_client_item_options.php:26
+msgid "Client Item"
+msgstr ""
+
+#: vc_extend/elements/tw_client_options.php:6
+msgid "Choose Hover Style"
+msgstr ""
+
+#: vc_extend/elements/tw_client_options.php:8
+#: vc_extend/elements/tw_process_options.php:8
+#: vc_extend/elements/tw_progress_bar_options.php:8
+#: vc_extend/elements/vc_accordion_options.php:15 vc_extend/init.php:537
+msgid "Style 1"
+msgstr ""
+
+#: vc_extend/elements/tw_client_options.php:9
+#: vc_extend/elements/tw_post_carousel_options.php:10
+#: vc_extend/elements/tw_process_options.php:9
+#: vc_extend/elements/tw_progress_bar_options.php:9
+#: vc_extend/elements/tw_timeline_options.php:12
+#: vc_extend/elements/vc_accordion_options.php:15 vc_extend/init.php:538
+msgid "Style 2"
+msgstr ""
+
+#: vc_extend/elements/tw_client_options.php:16
+#: vc_extend/elements/tw_gallery_options.php:23
+msgid "Choose Column"
+msgstr ""
+
+#: vc_extend/elements/tw_client_options.php:18
+#: vc_extend/elements/tw_process_options.php:18
+msgid "Column 2"
+msgstr ""
+
+#: vc_extend/elements/tw_client_options.php:19
+#: vc_extend/elements/tw_process_options.php:19
+msgid "Column 3"
+msgstr ""
+
+#: vc_extend/elements/tw_client_options.php:20
+#: vc_extend/elements/tw_process_options.php:20
+msgid "Column 4"
+msgstr ""
+
+#: vc_extend/elements/tw_client_options.php:21
+#: vc_extend/elements/tw_process_options.php:21
+msgid "Column 5"
+msgstr ""
+
+#: vc_extend/elements/tw_client_options.php:22
+#: vc_extend/elements/tw_process_options.php:22
+msgid "Column 6"
+msgstr ""
+
+#: vc_extend/elements/tw_client_options.php:26
+msgid "Select Column ?"
+msgstr ""
+
+#: vc_extend/elements/tw_client_options.php:30
+msgid "Set the Opacity"
+msgstr ""
+
+#: vc_extend/elements/tw_client_options.php:40
+msgid "Clients"
+msgstr ""
+
+#: vc_extend/elements/tw_client_options.php:41
+#: vc_extend/elements/tw_iconbox_options.php:57
+msgid "Display your Partners Images with Tooltip."
+msgstr ""
+
+#: vc_extend/elements/tw_comingsoon_options.php:6
+msgid "Insert Coming Soon Date"
+msgstr ""
+
+#: vc_extend/elements/tw_comingsoon_options.php:7
+msgid ""
+"We have used the UiKit framework. <a href=\"https://getuikit.com/docs/countdown"
+"\" target=\"_blank\" title=\"How to insert Date?\">Check Documentation.</a>"
+msgstr ""
+
+#: vc_extend/elements/tw_comingsoon_options.php:9
+msgid "date: 2019-12-06T08:52:58+00:00"
+msgstr ""
+
+#: vc_extend/elements/tw_comingsoon_options.php:14
+msgid "Customize the Days Text"
+msgstr ""
+
+#: vc_extend/elements/tw_comingsoon_options.php:15
+#: vc_extend/elements/tw_comingsoon_options.php:22
+#: vc_extend/elements/tw_comingsoon_options.php:29
+#: vc_extend/elements/tw_comingsoon_options.php:36
+msgid "If Value is blank then it will be disabled on Front-End."
+msgstr ""
+
+#: vc_extend/elements/tw_comingsoon_options.php:17
+msgid "Days"
+msgstr ""
+
+#: vc_extend/elements/tw_comingsoon_options.php:21
+msgid "Customize the Hours Text"
+msgstr ""
+
+#: vc_extend/elements/tw_comingsoon_options.php:24
+msgid "Hours"
+msgstr ""
+
+#: vc_extend/elements/tw_comingsoon_options.php:28
+msgid "Customize the Minutes Text"
+msgstr ""
+
+#: vc_extend/elements/tw_comingsoon_options.php:31
+msgid "Minutes"
+msgstr ""
+
+#: vc_extend/elements/tw_comingsoon_options.php:35
+msgid "Customize the Seconds Text"
+msgstr ""
+
+#: vc_extend/elements/tw_comingsoon_options.php:38
+msgid "Seconds"
+msgstr ""
+
+#: vc_extend/elements/tw_comingsoon_options.php:46 vc_extend/waves-templates.php:16
+#: vc_extend/waves-templates.php:504 vc_extend/waves-templates.php:620
+msgid "Coming Soon"
+msgstr ""
+
+#: vc_extend/elements/tw_comingsoon_options.php:47
+msgid "Display Counter based on Date Expire."
+msgstr ""
+
+#: vc_extend/elements/tw_counterup_options.php:6
+#: vc_extend/elements/tw_image_options.php:12
+msgid "Choose Align"
+msgstr ""
+
+#: vc_extend/elements/tw_counterup_options.php:8
+#: vc_extend/elements/tw_heading_options.php:50
+#: vc_extend/elements/tw_image_options.php:15
+#: vc_extend/elements/tw_timeline_options.php:9
+#: vc_extend/elements/vc_row_options.php:64
+msgid "Center"
+msgstr ""
+
+#: vc_extend/elements/tw_counterup_options.php:13
+#: vc_extend/elements/tw_process_item_options.php:13
+msgid "Number"
+msgstr ""
+
+#: vc_extend/elements/tw_counterup_options.php:21
+msgid "Unit or Px or Em"
+msgstr ""
+
+#: vc_extend/elements/tw_counterup_options.php:24
+msgid "Appended after the Number"
+msgstr ""
+
+#: vc_extend/elements/tw_counterup_options.php:30
+msgid "Happy customers"
+msgstr ""
+
+#: vc_extend/elements/tw_counterup_options.php:43
+msgid "Counter Up"
+msgstr ""
+
+#: vc_extend/elements/tw_counterup_options.php:44
+msgid "Display your Milestones."
+msgstr ""
+
+#: vc_extend/elements/tw_course_carousel_options.php:6
+#: vc_extend/elements/tw_post_carousel_options.php:17
+msgid "Background ?"
+msgstr ""
+
+#: vc_extend/elements/tw_course_carousel_options.php:9
+#: vc_extend/elements/tw_post_carousel_options.php:20
+msgid "White"
+msgstr ""
+
+#: vc_extend/elements/tw_course_carousel_options.php:10
+#: vc_extend/elements/tw_post_carousel_options.php:21
+msgid "Grey"
+msgstr ""
+
+#: vc_extend/elements/tw_course_carousel_options.php:18
+#: vc_extend/elements/tw_post_carousel_options.php:29
+msgid "Show Image ?"
+msgstr ""
+
+#: vc_extend/elements/tw_course_carousel_options.php:50
+msgid "Course category"
+msgstr ""
+
+#: vc_extend/elements/tw_course_carousel_options.php:55
+msgid "Select course category."
+msgstr ""
+
+#: vc_extend/elements/tw_course_carousel_options.php:83
+msgid "Course carousel"
+msgstr ""
+
+#: vc_extend/elements/tw_course_carousel_options.php:84
+#: vc_extend/elements/tw_post_carousel_options.php:95
+msgid "Display your Latest News with 2 Style."
+msgstr ""
+
+#: vc_extend/elements/tw_fancybox_options.php:7
+#: vc_extend/elements/tw_flipbox_item_options.php:38
+#: vc_extend/elements/tw_iconbox_options.php:7
+msgid "Creativity"
+msgstr ""
+
+#: vc_extend/elements/tw_fancybox_options.php:15
+#: vc_extend/elements/tw_flipbox_item_options.php:8
+#: vc_extend/elements/tw_iconbox_options.php:15
+#: vc_extend/elements/tw_text_options.php:20
+#: vc_extend/elements/tw_timeline_item_options.php:15
+msgid ""
+"Duis sed odio sit amet nibh vulputate cursus sit amet mauris morbi accumsan "
+"ipsum velit auctor ornare odio."
+msgstr ""
+
+#: vc_extend/elements/tw_fancybox_options.php:19
+#: vc_extend/elements/tw_flipbox_item_options.php:25
+#: vc_extend/elements/tw_iconbox_options.php:33
+msgid "Icon Size and Title Size"
+msgstr ""
+
+#: vc_extend/elements/tw_fancybox_options.php:22
+#: vc_extend/elements/tw_flipbox_item_options.php:28
+#: vc_extend/elements/tw_iconbox_options.php:36
+#: vc_extend/elements/tw_message_options.php:8
+#: vc_extend/elements/tw_social_options.php:50
+#: vc_extend/elements/tw_text_options.php:9 vc_extend/init.php:326
+msgid "Normal"
+msgstr ""
+
+#: vc_extend/elements/tw_fancybox_options.php:23
+#: vc_extend/elements/tw_flipbox_item_options.php:29
+#: vc_extend/elements/tw_iconbox_options.php:37
+msgid "Small icon"
+msgstr ""
+
+#: vc_extend/elements/tw_fancybox_options.php:24
+#: vc_extend/elements/tw_flipbox_item_options.php:30
+#: vc_extend/elements/tw_iconbox_options.php:38
+msgid "Small title"
+msgstr ""
+
+#: vc_extend/elements/tw_fancybox_options.php:25
+#: vc_extend/elements/tw_flipbox_item_options.php:31
+#: vc_extend/elements/tw_iconbox_options.php:39
+msgid "Small icon and title"
+msgstr ""
+
+#: vc_extend/elements/tw_fancybox_options.php:26
+#: vc_extend/elements/tw_iconbox_options.php:40
+msgid "Custom Typography"
+msgstr ""
+
+#: vc_extend/elements/tw_fancybox_options.php:33
+msgid "Height?"
+msgstr ""
+
+#: vc_extend/elements/tw_fancybox_options.php:36
+msgid "Only integer value. Example: 400"
+msgstr ""
+
+#: vc_extend/elements/tw_fancybox_options.php:40
+#: vc_extend/elements/tw_flipbox_options.php:24
+msgid "Add Link to Box?"
+msgstr ""
+
+#: vc_extend/elements/tw_fancybox_options.php:42
+#: vc_extend/elements/tw_flipbox_options.php:26
+msgid "url:#"
+msgstr ""
+
+#: vc_extend/elements/tw_fancybox_options.php:46
+msgid "Background Hover Color"
+msgstr ""
+
+#: vc_extend/elements/tw_fancybox_options.php:63
+msgid "FancyBox"
+msgstr ""
+
+#: vc_extend/elements/tw_fancybox_options.php:64
+msgid "Hover able Iconbox with Minimum Height value"
+msgstr ""
+
+#: vc_extend/elements/tw_flipbox_item_options.php:12
+#: vc_extend/elements/tw_iconbox_options.php:19
+#: vc_extend/elements/tw_team_options.php:8
+msgid "Choose Layout"
+msgstr ""
+
+#: vc_extend/elements/tw_flipbox_item_options.php:15
+#: vc_extend/elements/tw_iconbox_options.php:22
+msgid "Top Left Icon"
+msgstr ""
+
+#: vc_extend/elements/tw_flipbox_item_options.php:16
+#: vc_extend/elements/tw_iconbox_options.php:23
+msgid "Top Center Icon"
+msgstr ""
+
+#: vc_extend/elements/tw_flipbox_item_options.php:17
+#: vc_extend/elements/tw_iconbox_options.php:24
+msgid "Top Right Icon"
+msgstr ""
+
+#: vc_extend/elements/tw_flipbox_item_options.php:18
+#: vc_extend/elements/tw_iconbox_options.php:25
+msgid "Left Icon"
+msgstr ""
+
+#: vc_extend/elements/tw_flipbox_item_options.php:19
+#: vc_extend/elements/tw_iconbox_options.php:26
+msgid "Right Icon"
+msgstr ""
+
+#: vc_extend/elements/tw_flipbox_item_options.php:50
+msgid "FlipBox Item"
+msgstr ""
+
+#: vc_extend/elements/tw_flipbox_options.php:6
+msgid "Min Height(px)"
+msgstr ""
+
+#: vc_extend/elements/tw_flipbox_options.php:12
+msgid "Hover Direction"
+msgstr ""
+
+#: vc_extend/elements/tw_flipbox_options.php:15
+msgid "Right to Left"
+msgstr ""
+
+#: vc_extend/elements/tw_flipbox_options.php:16
+msgid "Left to Right"
+msgstr ""
+
+#: vc_extend/elements/tw_flipbox_options.php:17
+msgid "Top to Bottom"
+msgstr ""
+
+#: vc_extend/elements/tw_flipbox_options.php:18
+msgid "Bottom to Top"
+msgstr ""
+
+#: vc_extend/elements/tw_flipbox_options.php:36
+msgid "FlipBox"
+msgstr ""
+
+#: vc_extend/elements/tw_flipbox_options.php:37
+msgid "Interactive Information with Flip."
+msgstr ""
+
+#: vc_extend/elements/tw_gallery_options.php:6
+#: vc_extend/elements/tw_image_options.php:6
+msgid "Choose Image"
+msgstr ""
+
+#: vc_extend/elements/tw_gallery_options.php:12
+msgid "Gallery Layout"
+msgstr ""
+
+#: vc_extend/elements/tw_gallery_options.php:16
+msgid "Justified"
+msgstr ""
+
+#: vc_extend/elements/tw_gallery_options.php:26
+msgid "1 Column"
+msgstr ""
+
+#: vc_extend/elements/tw_gallery_options.php:27
+msgid "2 Columns"
+msgstr ""
+
+#: vc_extend/elements/tw_gallery_options.php:28
+msgid "3 Columns"
+msgstr ""
+
+#: vc_extend/elements/tw_gallery_options.php:29
+msgid "4 Columns"
+msgstr ""
+
+#: vc_extend/elements/tw_gallery_options.php:39
+msgid "Row Height"
+msgstr ""
+
+#: vc_extend/elements/tw_gallery_options.php:50
+msgid "Row Height Max ?"
+msgstr ""
+
+#: vc_extend/elements/tw_gallery_options.php:60
+#: vc_extend/elements/vc_row_options.php:36
+msgid "Grid Gutter Option"
+msgstr ""
+
+#: vc_extend/elements/tw_gallery_options.php:68
+msgid "Collapse: 0"
+msgstr ""
+
+#: vc_extend/elements/tw_gallery_options.php:74
+msgid "Lightbox ?"
+msgstr ""
+
+#: vc_extend/elements/tw_gallery_options.php:85
+#: vc_extend/elements/tw_portfolio_options.php:175
+msgid "Filter ?"
+msgstr ""
+
+#: vc_extend/elements/tw_gallery_options.php:90
+#: vc_extend/elements/tw_portfolio_options.php:180
+msgid "Multi"
+msgstr ""
+
+#: vc_extend/elements/tw_gallery_options.php:96
+#: vc_extend/elements/tw_portfolio_options.php:205
+msgid "Filter Title"
+msgstr ""
+
+#: vc_extend/elements/tw_gallery_options.php:99
+msgid "Empty to hide"
+msgstr ""
+
+#: vc_extend/elements/tw_gallery_options.php:112
+msgid "Gallery images"
+msgstr ""
+
+#: vc_extend/elements/tw_heading_options.php:6
+msgid "Main Title HTML Tag"
+msgstr ""
+
+#: vc_extend/elements/tw_heading_options.php:13
+msgid "Main Title Animate?"
+msgstr ""
+
+#: vc_extend/elements/tw_heading_options.php:20
+msgid "Main Title"
+msgstr ""
+
+#: vc_extend/elements/tw_heading_options.php:22
+msgid "Your Heading"
+msgstr ""
+
+#: vc_extend/elements/tw_heading_options.php:34
+msgid "Sub Title behind the Main Title"
+msgstr ""
+
+#: vc_extend/elements/tw_heading_options.php:41
+msgid "Description"
+msgstr ""
+
+#: vc_extend/elements/tw_heading_options.php:47
+msgid "Heading Choose Align"
+msgstr ""
+
+#: vc_extend/elements/tw_heading_options.php:58
+msgid "Heading Max Width"
+msgstr ""
+
+#: vc_extend/elements/tw_heading_options.php:61
+msgid "400px"
+msgstr ""
+
+#: vc_extend/elements/tw_heading_options.php:62
+msgid "600px"
+msgstr ""
+
+#: vc_extend/elements/tw_heading_options.php:63
+msgid "700px"
+msgstr ""
+
+#: vc_extend/elements/tw_heading_options.php:64
+msgid "800px"
+msgstr ""
+
+#: vc_extend/elements/tw_heading_options.php:76
+msgid "Heading"
+msgstr ""
+
+#: vc_extend/elements/tw_heading_options.php:77
+msgid "Google Fonts also Included in this Element."
+msgstr ""
+
+#: vc_extend/elements/tw_iconbox_options.php:27
+msgid "Small Layout 3"
+msgstr ""
+
+#: vc_extend/elements/tw_iconbox_options.php:56
+msgid "IconBox"
+msgstr ""
+
+#: vc_extend/elements/tw_image_options.php:23
+msgid "Image Height"
+msgstr ""
+
+#: vc_extend/elements/tw_image_options.php:25
+msgid "auto"
+msgstr ""
+
+#: vc_extend/elements/tw_image_options.php:29
+msgid "Insert as Background?"
+msgstr ""
+
+#: vc_extend/elements/tw_image_options.php:30
+msgid "In the DIV tag image applied on Style Background property."
+msgstr ""
+
+#: vc_extend/elements/tw_image_options.php:33
+msgid "DIV tag"
+msgstr ""
+
+#: vc_extend/elements/tw_image_options.php:34
+msgid "IMG tag"
+msgstr ""
+
+#: vc_extend/elements/tw_image_options.php:40
+msgid "Add Tilt Hover Effect"
+msgstr ""
+
+#: vc_extend/elements/tw_image_options.php:51
+msgid "Tilt Effect Value"
+msgstr ""
+
+#: vc_extend/elements/tw_image_options.php:54
+msgid ""
+"<a href=\"https://tympanus.net/Development/ImageTiltEffect/\" target=\"_blank\" "
+"title=\"Tilt Effect\">More Information on here.</a> You can check the Values for "
+"you need."
+msgstr ""
+
+#: vc_extend/elements/tw_image_options.php:66
+#: vc_extend/elements/tw_team_options.php:48 vc_extend/font-icons.php:257
+#: vc_extend/init.php:395
+msgid "Image"
+msgstr ""
+
+#: vc_extend/elements/tw_image_options.php:67
+msgid "Single Image Insert"
+msgstr ""
+
+#: vc_extend/elements/tw_images_carousel_options.php:6 vc_extend/font-icons.php:258
+msgid "Images"
+msgstr ""
+
+#: vc_extend/elements/tw_images_carousel_options.php:7
+msgid "Select images from media library."
+msgstr ""
+
+#: vc_extend/elements/tw_images_carousel_options.php:17
+msgid "Images Carousel"
+msgstr ""
+
+#: vc_extend/elements/tw_instagram_options.php:6
+msgid "User Name"
+msgstr ""
+
+#: vc_extend/elements/tw_instagram_options.php:14
+msgid "Number Of Photos"
+msgstr ""
+
+#: vc_extend/elements/tw_instagram_options.php:20
+msgid "Carousel Auto Play"
+msgstr ""
+
+#: vc_extend/elements/tw_instagram_options.php:32 widgets/widget_instagram.php:62
+msgid "Instagram"
+msgstr ""
+
+#: vc_extend/elements/tw_job_options.php:7
+msgid "Job category"
+msgstr ""
+
+#: vc_extend/elements/tw_job_options.php:23
+msgid "Customize Job Title"
+msgstr ""
+
+#: vc_extend/elements/tw_job_options.php:37
+msgid "Customize Code Title"
+msgstr ""
+
+#: vc_extend/elements/tw_job_options.php:55
+msgid "Customize Location Title"
+msgstr ""
+
+#: vc_extend/elements/tw_job_options.php:73
+msgid "Customize Department Title"
+msgstr ""
+
+#: vc_extend/elements/tw_job_options.php:83
+#: vc_extend/elements/tw_job_options.php:92
+msgid "Job Close"
+msgstr ""
+
+#: vc_extend/elements/tw_job_options.php:91
+msgid "Customize Close Title"
+msgstr ""
+
+#: vc_extend/elements/tw_job_options.php:107
+msgid "Job Element will display Job CPT."
+msgstr ""
+
+#: vc_extend/elements/tw_list_options.php:6
+msgid "Choose List Icon Style"
+msgstr ""
+
+#: vc_extend/elements/tw_list_options.php:9
+msgid "No Bullet"
+msgstr ""
+
+#: vc_extend/elements/tw_list_options.php:10
+msgid "With Icon"
+msgstr ""
+
+#: vc_extend/elements/tw_list_options.php:11
+msgid "With Bullet"
+msgstr ""
+
+#: vc_extend/elements/tw_list_options.php:12
+msgid "With Numberic"
+msgstr ""
+
+#: vc_extend/elements/tw_list_options.php:13
+msgid "With Divider"
+msgstr ""
+
+#: vc_extend/elements/tw_list_options.php:14
+msgid "With Stripped"
+msgstr ""
+
+#: vc_extend/elements/tw_list_options.php:20
+msgid "Your Lists"
+msgstr ""
+
+#: vc_extend/elements/tw_list_options.php:22
+msgid ""
+"Enter the List Title and Color (Example: Example List|#999999|ion-android-done-"
+"all)"
+msgstr ""
+
+#: vc_extend/elements/tw_list_options.php:23
+msgid "List Item 1,List Item 2,List Item 3"
+msgstr ""
+
+#: vc_extend/elements/tw_list_options.php:27
+msgid "Set Color for Icon"
+msgstr ""
+
+#: vc_extend/elements/tw_list_options.php:28
+msgid ""
+"If you want to add all Icons same and Colors same then use this and icon options"
+msgstr ""
+
+#: vc_extend/elements/tw_list_options.php:39
+msgid "List"
+msgstr ""
+
+#: vc_extend/elements/tw_list_options.php:40
+msgid "Extended List Element with Icon and Animation."
+msgstr ""
+
+#: vc_extend/elements/tw_map_options.php:9 vc_extend/elements/tw_map_options.php:98
+msgid "Latitude"
+msgstr ""
+
+#: vc_extend/elements/tw_map_options.php:12
+msgid ""
+"<a href=\"http://www.latlong.net/\" target=\"_blank\" title=\"Get Longitude and "
+"Latitude\">You can get it here.</a> Latitude. Note: Only Digit (max:90, min:-90)"
+msgstr ""
+
+#: vc_extend/elements/tw_map_options.php:16
+#: vc_extend/elements/tw_map_options.php:105
+msgid "Longitude"
+msgstr ""
+
+#: vc_extend/elements/tw_map_options.php:19
+msgid ""
+"<a href=\"http://www.latlong.net/\" target=\"_blank\" title=\"Get Longitude and "
+"Latitude\">You can get it here.</a> Longitude. Note: Only Digit (max:180, "
+"min:-180)"
+msgstr ""
+
+#: vc_extend/elements/tw_map_options.php:25
+msgid "Zoom"
+msgstr ""
+
+#: vc_extend/elements/tw_map_options.php:27
+msgid "Most roadmap imagery is available from zoom levels 0 to 18"
+msgstr ""
+
+#: vc_extend/elements/tw_map_options.php:32
+msgid "Your Style Name"
+msgstr ""
+
+#: vc_extend/elements/tw_map_options.php:39
+msgid "Style Option"
+msgstr ""
+
+#: vc_extend/elements/tw_map_options.php:42
+msgid ""
+"<a href=\"https://snazzymaps.com/explore\" target=\"_blank\" title=\"Snazzy Maps"
+"\">Snazzy Maps</a>. Click the generated Popular Maps or you can create your own "
+"and insert it your or others ARRAYS."
+msgstr ""
+
+#: vc_extend/elements/tw_map_options.php:47
+msgid "Min Height"
+msgstr ""
+
+#: vc_extend/elements/tw_map_options.php:53
+msgid "Mouse Wheel on Scroll?"
+msgstr ""
+
+#: vc_extend/elements/tw_map_options.php:54
+msgid "If you want to disable it then uncheck this option."
+msgstr ""
+
+#: vc_extend/elements/tw_map_options.php:56
+msgid "Enable"
+msgstr ""
+
+#: vc_extend/elements/tw_map_options.php:60
+msgid "Markers"
+msgstr ""
+
+#: vc_extend/elements/tw_map_options.php:62
+#: vc_extend/elements/tw_map_options.php:137
+#: vc_extend/elements/tw_map_options.php:144
+#: vc_extend/elements/tw_map_options.php:155
+#: vc_extend/elements/tw_map_options.php:165
+#: vc_extend/elements/tw_map_options.php:177
+msgid "Markers & More"
+msgstr ""
+
+#: vc_extend/elements/tw_map_options.php:65
+msgid "Marker 1"
+msgstr ""
+
+#: vc_extend/elements/tw_map_options.php:71
+msgid "Content 1"
+msgstr ""
+
+#: vc_extend/elements/tw_map_options.php:74
+msgid "Marker 2"
+msgstr ""
+
+#: vc_extend/elements/tw_map_options.php:80
+msgid "Content 2"
+msgstr ""
+
+#: vc_extend/elements/tw_map_options.php:86
+msgid "Marker Title"
+msgstr ""
+
+#: vc_extend/elements/tw_map_options.php:88
+msgid "ThemeWaves is BEST, Cheers!"
+msgstr ""
+
+#: vc_extend/elements/tw_map_options.php:93
+msgid "Marker Content"
+msgstr ""
+
+#: vc_extend/elements/tw_map_options.php:101
+msgid "Latitude. Note: Only Digit (max:90, min:-90)"
+msgstr ""
+
+#: vc_extend/elements/tw_map_options.php:108
+msgid "Longitude. Note: Only Digit (max:180, min:-180)"
+msgstr ""
+
+#: vc_extend/elements/tw_map_options.php:112
+msgid "Upload Custom Marker Image"
+msgstr ""
+
+#: vc_extend/elements/tw_map_options.php:113
+msgid "Default Marker located in lvly/assets/images directory"
+msgstr ""
+
+#: vc_extend/elements/tw_map_options.php:120
+msgid "Marker Image Width"
+msgstr ""
+
+#: vc_extend/elements/tw_map_options.php:127
+msgid "Marker Image Height"
+msgstr ""
+
+#: vc_extend/elements/tw_map_options.php:135
+msgid "Use Custom Contact with CF 7"
+msgstr ""
+
+#: vc_extend/elements/tw_map_options.php:142
+msgid "Map Title"
+msgstr ""
+
+#: vc_extend/elements/tw_map_options.php:153
+msgid "Map Description"
+msgstr ""
+
+#: vc_extend/elements/tw_map_options.php:174
+msgid "Contact Form 7"
+msgstr ""
+
+#: vc_extend/elements/tw_map_options.php:189
+msgid "Google Map"
+msgstr ""
+
+#: vc_extend/elements/tw_map_options.php:190
+msgid "Customizable Snazzy Map."
+msgstr ""
+
+#: vc_extend/elements/tw_message_options.php:6
+msgid "Choose Type?"
+msgstr ""
+
+#: vc_extend/elements/tw_message_options.php:9 vc_extend/font-icons.php:259
+msgid "Information"
+msgstr ""
+
+#: vc_extend/elements/tw_message_options.php:10
+msgid "Success"
+msgstr ""
+
+#: vc_extend/elements/tw_message_options.php:11
+msgid "Warning"
+msgstr ""
+
+#: vc_extend/elements/tw_message_options.php:12
+msgid "Danger"
+msgstr ""
+
+#: vc_extend/elements/tw_message_options.php:13
+msgid "Custom Color"
+msgstr ""
+
+#: vc_extend/elements/tw_message_options.php:20
+msgid "Background color"
+msgstr ""
+
+#: vc_extend/elements/tw_message_options.php:21
+msgid "#000"
+msgstr ""
+
+#: vc_extend/elements/tw_message_options.php:30
+msgid "Box Information"
+msgstr ""
+
+#: vc_extend/elements/tw_message_options.php:31
+msgid "Your Message Box Information here."
+msgstr ""
+
+#: vc_extend/elements/tw_message_options.php:41
+msgid "Message Box"
+msgstr ""
+
+#: vc_extend/elements/tw_message_options.php:42
+msgid "Display your Boxed Information."
+msgstr ""
+
+#: vc_extend/elements/tw_portfolio_carousel_options.php:7
+#: vc_extend/elements/tw_portfolio_options.php:7
+#: vc_extend/elements/tw_post_slider_options.php:7
+msgid "Portfolio category"
+msgstr ""
+
+#: vc_extend/elements/tw_portfolio_carousel_options.php:12
+msgid "Select portfolio category."
+msgstr ""
+
+#: vc_extend/elements/tw_portfolio_carousel_options.php:17
+msgid "Portfolio count"
+msgstr ""
+
+#: vc_extend/elements/tw_portfolio_carousel_options.php:36
+#: vc_extend/elements/tw_portfolio_options.php:52
+msgid "Inside Image Layout - Hover Style"
+msgstr ""
+
+#: vc_extend/elements/tw_portfolio_carousel_options.php:48
+#: vc_extend/elements/tw_portfolio_options.php:76
+msgid "Display Sub-Title Under Image?"
+msgstr ""
+
+#: vc_extend/elements/tw_portfolio_carousel_options.php:68
+#: vc_extend/elements/tw_portfolio_options.php:119
+msgid "Under Image Layout - Hover Style"
+msgstr ""
+
+#: vc_extend/elements/tw_portfolio_carousel_options.php:101
+#: vc_extend/waves-templates.php:543
+msgid "Portfolio Carousel"
+msgstr ""
+
+#: vc_extend/elements/tw_portfolio_carousel_options.php:102
+msgid "Styling option with Carousel customize."
+msgstr ""
+
+#: vc_extend/elements/tw_portfolio_options.php:23
+#: vc_extend/elements/tw_timeline_options.php:6 widgets/widget_instagram.php:86
+msgid "Layout"
+msgstr ""
+
+#: vc_extend/elements/tw_portfolio_options.php:30
+msgid "Promo"
+msgstr ""
+
+#: vc_extend/elements/tw_portfolio_options.php:64
+msgid "Metro, Hover Style ?"
+msgstr ""
+
+#: vc_extend/elements/tw_portfolio_options.php:86
+msgid "Promo, Sub Title ?"
+msgstr ""
+
+#: vc_extend/elements/tw_portfolio_options.php:190
+msgid "Filter Style"
+msgstr ""
+
+#: vc_extend/elements/tw_portfolio_options.php:194
+msgid "Right Side"
+msgstr ""
+
+#: vc_extend/elements/tw_portfolio_options.php:195
+msgid "Modern"
+msgstr ""
+
+#: vc_extend/elements/tw_portfolio_options.php:208
+msgid "Filter Title will Display on the Left Side"
+msgstr ""
+
+#: vc_extend/elements/tw_portfolio_options.php:248
+msgid "Infinite Text"
+msgstr ""
+
+#: vc_extend/elements/tw_portfolio_options.php:251
+msgid ""
+"If you leave it Empty then Default Theme Option Translate Tab Value will be "
+"inserted"
+msgstr ""
+
+#: vc_extend/elements/tw_portfolio_options.php:265
+msgid "Display your Works with Stunning Layouts."
+msgstr ""
+
+#: vc_extend/elements/tw_post_carousel_options.php:6
+#: vc_extend/elements/tw_testimonial_options.php:6
+msgid "Layout ?"
+msgstr ""
+
+#: vc_extend/elements/tw_post_carousel_options.php:66
+msgid "Select post category."
+msgstr ""
+
+#: vc_extend/elements/tw_post_carousel_options.php:94
+msgid "Post carousel"
+msgstr ""
+
+#: vc_extend/elements/tw_post_slider_options.php:26
+msgid "Height"
+msgstr ""
+
+#: vc_extend/elements/tw_post_slider_options.php:29
+msgid ""
+"Insert value with px and % or vh etc. Example: 80vh - It means viewport 80% "
+"height it will get."
+msgstr ""
+
+#: vc_extend/elements/tw_post_slider_options.php:41
+msgid "Content Max Width"
+msgstr ""
+
+#: vc_extend/elements/tw_post_slider_options.php:44
+msgid "Title and Read More content section width and you can control the width."
+msgstr ""
+
+#: vc_extend/elements/tw_post_slider_options.php:48
+msgid "Content - Align"
+msgstr ""
+
+#: vc_extend/elements/tw_post_slider_options.php:61
+msgid "Auto play ?"
+msgstr ""
+
+#: vc_extend/elements/tw_post_slider_options.php:63
+msgid "If checked, it is allowed to auto play."
+msgstr ""
+
+#: vc_extend/elements/tw_post_slider_options.php:68
+msgid "Post Slider"
+msgstr ""
+
+#: vc_extend/elements/tw_post_slider_options.php:69
+msgid "Sliding Hover will Display your Posts."
+msgstr ""
+
+#: vc_extend/elements/tw_pricinglist_options.php:6 vc_extend/init.php:586
+msgid "Items"
+msgstr ""
+
+#: vc_extend/elements/tw_pricinglist_options.php:33
+msgid "Is Featured?"
+msgstr ""
+
+#: vc_extend/elements/tw_pricinglist_options.php:39
+msgid "Insert Image"
+msgstr ""
+
+#: vc_extend/elements/tw_pricinglist_options.php:40
+msgid "Recommended Image Size 60x60"
+msgstr ""
+
+#: vc_extend/elements/tw_pricinglist_options.php:46
+msgid "Price"
+msgstr ""
+
+#: vc_extend/elements/tw_pricinglist_options.php:48
+msgid "19$"
+msgstr ""
+
+#: vc_extend/elements/tw_pricinglist_options.php:55
+msgid "Western Sunrise"
+msgstr ""
+
+#: vc_extend/elements/tw_pricinglist_options.php:62
+msgid "Duis sed odio sit amet nibh vulputate cursus sit amet"
+msgstr ""
+
+#: vc_extend/elements/tw_pricinglist_options.php:66
+msgid "Title Link"
+msgstr ""
+
+#: vc_extend/elements/tw_pricinglist_options.php:67
+msgid "Your Inserted Custom Links will applied on Title with New Window."
+msgstr ""
+
+#: vc_extend/elements/tw_pricinglist_options.php:80
+#: vc_extend/waves-templates.php:408
+msgid "Pricing List"
+msgstr ""
+
+#: vc_extend/elements/tw_pricinglist_options.php:81
+msgid "Product Image with Price and Description."
+msgstr ""
+
+#: vc_extend/elements/tw_pricingtable_options.php:6
+msgid "Pricing Lists"
+msgstr ""
+
+#: vc_extend/elements/tw_pricingtable_options.php:8
+msgid ""
+"<ul><li>20GB Storage</li><li>20GB Storage</li><li>Premium Support</li><li>20 "
+"Unique Logins</li></ul>"
+msgstr ""
+
+#: vc_extend/elements/tw_pricingtable_options.php:14
+msgid "Business"
+msgstr ""
+
+#: vc_extend/elements/tw_pricingtable_options.php:19
+msgid "Insert Price"
+msgstr ""
+
+#: vc_extend/elements/tw_pricingtable_options.php:21
+msgid "39"
+msgstr ""
+
+#: vc_extend/elements/tw_pricingtable_options.php:25
+msgid "Insert Symbol"
+msgstr ""
+
+#: vc_extend/elements/tw_pricingtable_options.php:27
+msgid "$"
+msgstr ""
+
+#: vc_extend/elements/tw_pricingtable_options.php:31
+msgid "Button Hover Style"
+msgstr ""
+
+#: vc_extend/elements/tw_pricingtable_options.php:43
+msgid "Insert Button"
+msgstr ""
+
+#: vc_extend/elements/tw_pricingtable_options.php:45
+msgid ""
+"url:http%3A%2F%2Fthemeforest.net%2Fuser%2Fthemewaves%3Fref%3Dthemewaves|title:Buy"
+"%20Now"
+msgstr ""
+
+#: vc_extend/elements/tw_pricingtable_options.php:53
+msgid "Pricing Table"
+msgstr ""
+
+#: vc_extend/elements/tw_pricingtable_options.php:54
+msgid "Display your Pricing Information."
+msgstr ""
+
+#: vc_extend/elements/tw_process_item_options.php:21
+msgid "Duis odio sit amet nibh vulputate auctor."
+msgstr ""
+
+#: vc_extend/elements/tw_process_item_options.php:29
+msgid "Process Item"
+msgstr ""
+
+#: vc_extend/elements/tw_process_options.php:6
+#: vc_extend/elements/tw_progress_bar_options.php:6
+msgid "Choose Style?"
+msgstr ""
+
+#: vc_extend/elements/tw_process_options.php:16
+msgid "Columns?"
+msgstr ""
+
+#: vc_extend/elements/tw_process_options.php:34
+msgid "Process"
+msgstr ""
+
+#: vc_extend/elements/tw_process_options.php:35
+msgid "Display your Work Process."
+msgstr ""
+
+#: vc_extend/elements/tw_product_carousel_options.php:7
+msgid "Product category"
+msgstr ""
+
+#: vc_extend/elements/tw_product_carousel_options.php:12
+msgid "Select product category."
+msgstr ""
+
+#: vc_extend/elements/tw_product_carousel_options.php:17
+msgid "Product count"
+msgstr ""
+
+#: vc_extend/elements/tw_product_carousel_options.php:43
+msgid "Product carousel"
+msgstr ""
+
+#: vc_extend/elements/tw_progress_bar_options.php:10
+#: vc_extend/elements/vc_accordion_options.php:15 vc_extend/init.php:539
+msgid "Style 3"
+msgstr ""
+
+#: vc_extend/elements/tw_progress_bar_options.php:17
+msgid "Units"
+msgstr ""
+
+#: vc_extend/elements/tw_progress_bar_options.php:20
+msgid ""
+"Enter measurement units (Example: %, px, points, etc. Note: graph value and "
+"units will be appended to graph title)."
+msgstr ""
+
+#: vc_extend/elements/tw_progress_bar_options.php:24
+#: vc_extend/elements/tw_progress_bar_options.php:37
+msgid "Progress Bar"
+msgstr ""
+
+#: vc_extend/elements/tw_progress_bar_options.php:26
+msgid ""
+"Enter values for graph - value, title and color. Divide value sets with "
+"linebreak \"Enter\" (Example: 90|Development|#e75956)."
+msgstr ""
+
+#: vc_extend/elements/tw_progress_bar_options.php:27
+msgid "90|Development,80|Design,70|Marketing"
+msgstr ""
+
+#: vc_extend/elements/tw_progress_bar_options.php:38
+msgid "Display your Skills with Bar."
+msgstr ""
+
+#: vc_extend/elements/tw_slider_options.php:60 vc_extend/init.php:551
+msgid "Slider"
+msgstr ""
+
+#: vc_extend/elements/tw_slider_options.php:61
+msgid "FullScreen or Custom Height Slider."
+msgstr ""
+
+#: vc_extend/elements/tw_slider_options.php:68
+msgid "Add slide"
+msgstr ""
+
+#: vc_extend/elements/tw_social_options.php:6
+msgid "Layout Style"
+msgstr ""
+
+#: vc_extend/elements/tw_social_options.php:10 widgets/widget_socials.php:98
+msgid "Circle"
+msgstr ""
+
+#: vc_extend/elements/tw_social_options.php:11 widgets/widget_socials.php:99
+msgid "Square"
+msgstr ""
+
+#: vc_extend/elements/tw_social_options.php:17
+msgid "Background Color Style"
+msgstr ""
+
+#: vc_extend/elements/tw_social_options.php:20 widgets/widget_socials.php:88
+msgid "Gray"
+msgstr ""
+
+#: vc_extend/elements/tw_social_options.php:21 widgets/widget_socials.php:89
+msgid "Dark"
+msgstr ""
+
+#: vc_extend/elements/tw_social_options.php:22 widgets/widget_socials.php:90
+msgid "Light"
+msgstr ""
+
+#: vc_extend/elements/tw_social_options.php:23 widgets/widget_socials.php:91
+msgid "Color"
+msgstr ""
+
+#: vc_extend/elements/tw_social_options.php:24
+msgid "Transparent"
+msgstr ""
+
+#: vc_extend/elements/tw_social_options.php:34 vc_extend/init.php:345
+msgid "Hover Style"
+msgstr ""
+
+#: vc_extend/elements/tw_social_options.php:37 vc_extend/init.php:351
+#: widgets/widget_socials.php:105
+msgid "No Hover"
+msgstr ""
+
+#: vc_extend/elements/tw_social_options.php:38 widgets/widget_socials.php:106
+msgid "Gray Hover"
+msgstr ""
+
+#: vc_extend/elements/tw_social_options.php:39 widgets/widget_socials.php:107
+msgid "Light Hover"
+msgstr ""
+
+#: vc_extend/elements/tw_social_options.php:40 vc_extend/init.php:348
+#: widgets/widget_socials.php:108
+msgid "Dark Hover"
+msgstr ""
+
+#: vc_extend/elements/tw_social_options.php:41 widgets/widget_socials.php:109
+msgid "Color Hover"
+msgstr ""
+
+#: vc_extend/elements/tw_social_options.php:47
+msgid "Size"
+msgstr ""
+
+#: vc_extend/elements/tw_social_options.php:51
+msgid "Medium"
+msgstr ""
+
+#: vc_extend/elements/tw_social_options.php:58
+msgid "Socials"
+msgstr ""
+
+#: vc_extend/elements/tw_social_options.php:60
+#: vc_extend/elements/tw_team_options.php:61
+msgid ""
+"Enter social links. Example:facebook.com/themewaves. NOTE: Divide value sets "
+"with linebreak \"Enter\""
+msgstr ""
+
+#: vc_extend/elements/tw_social_options.php:69
+msgid "Social"
+msgstr ""
+
+#: vc_extend/elements/tw_social_options.php:70
+msgid "You Social Profile Lists."
+msgstr ""
+
+#: vc_extend/elements/tw_team_options.php:11
+msgid "Image + Content (hover1)"
+msgstr ""
+
+#: vc_extend/elements/tw_team_options.php:12
+msgid "Image + Content (hover2)"
+msgstr ""
+
+#: vc_extend/elements/tw_team_options.php:13
+msgid "Image (hover content1)"
+msgstr ""
+
+#: vc_extend/elements/tw_team_options.php:14
+msgid "Image (hover content2)"
+msgstr ""
+
+#: vc_extend/elements/tw_team_options.php:35
+#: vc_extend/elements/tw_testimonial_item_options.php:13
+msgid "Name"
+msgstr ""
+
+#: vc_extend/elements/tw_team_options.php:37
+msgid "Oliver Streen"
+msgstr ""
+
+#: vc_extend/elements/tw_team_options.php:42
+#: vc_extend/elements/tw_testimonial_item_options.php:39
+msgid "Position"
+msgstr ""
+
+#: vc_extend/elements/tw_team_options.php:44
+msgid "Founder & CEO"
+msgstr ""
+
+#: vc_extend/elements/tw_team_options.php:53
+msgid "Link URL"
+msgstr ""
+
+#: vc_extend/elements/tw_team_options.php:59
+msgid "Social Links"
+msgstr ""
+
+#: vc_extend/elements/tw_team_options.php:70 vc_extend/waves-templates.php:72
+#: vc_extend/waves-templates.php:750 vc_extend/waves-templates.php:759
+msgid "Team"
+msgstr ""
+
+#: vc_extend/elements/tw_team_options.php:71
+msgid "Different Style and Hover option."
+msgstr ""
+
+#: vc_extend/elements/tw_testimonial_item_options.php:29
+msgid ""
+"Lorem Ipsum proin gravida nibh velit auctor elit integer lacin malesuada justo "
+"amet deince montium coeperint grasres."
+msgstr ""
+
+#: vc_extend/elements/tw_testimonial_item_options.php:33
+msgid "Profile Image"
+msgstr ""
+
+#: vc_extend/elements/tw_testimonial_item_options.php:41
+msgid "Envato"
+msgstr ""
+
+#: vc_extend/elements/tw_testimonial_item_options.php:45
+msgid "Testimonial Item"
+msgstr ""
+
+#: vc_extend/elements/tw_testimonial_options.php:8
+msgid "Carousel 1"
+msgstr ""
+
+#: vc_extend/elements/tw_testimonial_options.php:9
+msgid "Carousel 2"
+msgstr ""
+
+#: vc_extend/elements/tw_testimonial_options.php:10
+msgid "Carousel 3"
+msgstr ""
+
+#: vc_extend/elements/tw_testimonial_options.php:11
+msgid "Simple quote"
+msgstr ""
+
+#: vc_extend/elements/tw_testimonial_options.php:15
+msgid "Select Type."
+msgstr ""
+
+#: vc_extend/elements/tw_testimonial_options.php:29
+msgid "Testimonial"
+msgstr ""
+
+#: vc_extend/elements/tw_testimonial_options.php:30
+msgid "Set the Layout and Carousel options."
+msgstr ""
+
+#: vc_extend/elements/tw_text_options.php:6
+msgid "Font Size"
+msgstr ""
+
+#: vc_extend/elements/tw_text_options.php:28
+msgid "Text Block"
+msgstr ""
+
+#: vc_extend/elements/tw_text_options.php:30
+msgid "A block of text with WYSIWYG editor."
+msgstr ""
+
+#: vc_extend/elements/tw_timeline_item_options.php:7
+#: vc_extend/elements/tw_timeline_options.php:23 vc_extend/waves-templates.php:80
+#: vc_extend/waves-templates.php:296
+msgid "Timeline"
+msgstr ""
+
+#: vc_extend/elements/tw_timeline_item_options.php:25
+msgid "Meta"
+msgstr ""
+
+#: vc_extend/elements/tw_timeline_item_options.php:31
+msgid "Timeline Item"
+msgstr ""
+
+#: vc_extend/elements/tw_timeline_options.php:24
+msgid "Display your Experiences with Timeline Layout."
+msgstr ""
+
+#: vc_extend/elements/tw_video_options.php:6
+msgid "Video Thumbnail Image"
+msgstr ""
+
+#: vc_extend/elements/tw_video_options.php:8
+msgid "The preivew image."
+msgstr ""
+
+#: vc_extend/elements/tw_video_options.php:12
+msgid "Embed"
+msgstr ""
+
+#: vc_extend/elements/tw_video_options.php:19
+msgid "Thumbnail Min-Height"
+msgstr ""
+
+#: vc_extend/elements/tw_video_options.php:25
+msgid "Open in modal?"
+msgstr ""
+
+#: vc_extend/elements/tw_video_options.php:32
+msgid "Play Button Color"
+msgstr ""
+
+#: vc_extend/elements/tw_video_options.php:38
+msgid "Play Button Background Color"
+msgstr ""
+
+#: vc_extend/elements/tw_video_options.php:49
+msgid "Modal or Simple Video Icon."
+msgstr ""
+
+#: vc_extend/elements/vc_accordion_options.php:6
+msgid "Active section"
+msgstr ""
+
+#: vc_extend/elements/vc_accordion_options.php:8
+msgid ""
+"Enter section number to be active on load or enter \"false\" to collapse all "
+"sections."
+msgstr ""
+
+#: vc_extend/elements/vc_accordion_options.php:13
+msgid "Choose Accordion Style"
+msgstr ""
+
+#: vc_extend/elements/vc_accordion_options.php:20
+msgid "Allow collapse all sections?"
+msgstr ""
+
+#: vc_extend/elements/vc_accordion_options.php:22
+msgid "If checked, it is allowed to collapse all sections."
+msgstr ""
+
+#: vc_extend/elements/vc_accordion_options.php:27
+msgid "Allow multiple sections?"
+msgstr ""
+
+#: vc_extend/elements/vc_accordion_options.php:29
+msgid "If checked, it is allowed to multiple sections."
+msgstr ""
+
+#: vc_extend/elements/vc_accordion_options.php:38 vc_extend/waves-templates.php:8
+msgid "Accordion"
+msgstr ""
+
+#: vc_extend/elements/vc_accordion_options.php:39
+msgid "Display your FAQ."
+msgstr ""
+
+#: vc_extend/elements/vc_accordion_options.php:45
+msgid "Collapsible content panels"
+msgstr ""
+
+#: vc_extend/elements/vc_accordion_options.php:47
+msgid "Add section"
+msgstr ""
+
+#: vc_extend/elements/vc_accordion_options.php:48
+msgid "Section 1"
+msgstr ""
+
+#: vc_extend/elements/vc_accordion_options.php:48
+msgid "Section 2"
+msgstr ""
+
+#: vc_extend/elements/vc_accordion_tab_options.php:8
+msgid "Enter accordion section title."
+msgstr ""
+
+#: vc_extend/elements/vc_accordion_tab_options.php:12
+msgid "Section"
+msgstr ""
+
+#: vc_extend/elements/vc_row_inner_options.php:16
+#: vc_extend/elements/vc_row_options.php:6
+msgid "Content Width"
+msgstr ""
+
+#: vc_extend/elements/vc_row_inner_options.php:19
+#: vc_extend/elements/vc_row_options.php:9
+msgid "100% - Fullwidth "
+msgstr ""
+
+#: vc_extend/elements/vc_row_inner_options.php:20
+#: vc_extend/elements/vc_row_options.php:10
+msgid "1650px - Large "
+msgstr ""
+
+#: vc_extend/elements/vc_row_inner_options.php:21
+#: vc_extend/elements/vc_row_options.php:11
+msgid "1170px - Boxed Stretch"
+msgstr ""
+
+#: vc_extend/elements/vc_row_inner_options.php:22
+#: vc_extend/elements/vc_row_options.php:12
+msgid "900px - Small "
+msgstr ""
+
+#: vc_extend/elements/vc_row_inner_options.php:23
+#: vc_extend/elements/vc_row_options.php:13
+msgid "600px - xSmall "
+msgstr ""
+
+#: vc_extend/elements/vc_row_inner_options.php:29
+#: vc_extend/elements/vc_row_options.php:19
+msgid "Container Padding from Top & Bottom"
+msgstr ""
+
+#: vc_extend/elements/vc_row_inner_options.php:30
+#: vc_extend/elements/vc_row_options.php:20
+msgid ""
+"Wanna Customize this sizes then Use the Styling Tab -> Padding Top and Bottom "
+"option."
+msgstr ""
+
+#: vc_extend/elements/vc_row_inner_options.php:33
+#: vc_extend/elements/vc_row_options.php:23
+msgid "20px - Extra Small"
+msgstr ""
+
+#: vc_extend/elements/vc_row_inner_options.php:34
+#: vc_extend/elements/vc_row_options.php:24
+msgid "40px - Small"
+msgstr ""
+
+#: vc_extend/elements/vc_row_inner_options.php:35
+#: vc_extend/elements/vc_row_options.php:25
+msgid "75px - Normal"
+msgstr ""
+
+#: vc_extend/elements/vc_row_inner_options.php:36
+#: vc_extend/elements/vc_row_options.php:26
+msgid "90px - Medium"
+msgstr ""
+
+#: vc_extend/elements/vc_row_inner_options.php:37
+#: vc_extend/elements/vc_row_options.php:27
+msgid "110px - Default"
+msgstr ""
+
+#: vc_extend/elements/vc_row_inner_options.php:38
+#: vc_extend/elements/vc_row_options.php:28
+msgid "150px - Large"
+msgstr ""
+
+#: vc_extend/elements/vc_row_inner_options.php:39
+#: vc_extend/elements/vc_row_options.php:29
+msgid "210px - Extra Large"
+msgstr ""
+
+#: vc_extend/elements/vc_row_inner_options.php:40
+#: vc_extend/elements/vc_row_options.php:30
+msgid "0 - Remove Padding"
+msgstr ""
+
+#: vc_extend/elements/vc_row_inner_options.php:49
+#: vc_extend/elements/vc_row_options.php:39
+msgid "10px - XSmall "
+msgstr ""
+
+#: vc_extend/elements/vc_row_inner_options.php:60
+msgid "Inner Columns Equal Height?"
+msgstr ""
+
+#: vc_extend/elements/vc_row_inner_options.php:64
+msgid ""
+"If you have tall and short content then it will equally set the Content Height "
+"to tallest Column."
+msgstr ""
+
+#: vc_extend/elements/vc_row_options.php:50
+msgid "Grid Match Height"
+msgstr ""
+
+#: vc_extend/elements/vc_row_options.php:60
+msgid "Grid Content Vertical Align"
+msgstr ""
+
+#: vc_extend/elements/vc_row_options.php:63
+msgid "Top"
+msgstr ""
+
+#: vc_extend/elements/vc_row_options.php:65
+msgid "Bottom"
+msgstr ""
+
+#: vc_extend/elements/vc_tab_options.php:8
+msgid "Enter title of tab."
+msgstr ""
+
+#: vc_extend/elements/vc_tab_options.php:17
+#: vc_extend/elements/vc_tabs_options.php:29 vc_extend/waves-templates.php:64
+msgid "Tab"
+msgstr ""
+
+#: vc_extend/elements/vc_tab_options.php:18
+msgid "Tabbed Content with Customizable options."
+msgstr ""
+
+#: vc_extend/elements/vc_tabs_options.php:6
+msgid "Choose Tabs Style"
+msgstr ""
+
+#: vc_extend/elements/vc_tabs_options.php:9
+msgid "Top Left"
+msgstr ""
+
+#: vc_extend/elements/vc_tabs_options.php:10
+msgid "Top Center"
+msgstr ""
+
+#: vc_extend/elements/vc_tabs_options.php:11
+msgid "Top Justify"
+msgstr ""
+
+#: vc_extend/elements/vc_tabs_options.php:12
+msgid "Top Right"
+msgstr ""
+
+#: vc_extend/elements/vc_tabs_options.php:13
+msgid "Left side"
+msgstr ""
+
+#: vc_extend/elements/vc_tabs_options.php:14
+msgid "Right side"
+msgstr ""
+
+#: vc_extend/elements/vc_tabs_options.php:19
+msgid "Tab ID"
+msgstr ""
+
+#: vc_extend/elements/vc_tabs_options.php:35
+msgid "Tabbed content"
+msgstr ""
+
+#: vc_extend/elements/vc_tabs_options.php:38
+msgid "Tab 1"
+msgstr ""
+
+#: vc_extend/elements/vc_tabs_options.php:38
+msgid "Tab 2"
+msgstr ""
+
+#: vc_extend/font-icons.php:7
+msgid "Alert"
+msgstr ""
+
+#: vc_extend/font-icons.php:8
+msgid "Alert circled"
+msgstr ""
+
+#: vc_extend/font-icons.php:9
+msgid "Android add"
+msgstr ""
+
+#: vc_extend/font-icons.php:10
+msgid "Android add circle"
+msgstr ""
+
+#: vc_extend/font-icons.php:11
+msgid "Android alarm clock"
+msgstr ""
+
+#: vc_extend/font-icons.php:12
+msgid "Android alert"
+msgstr ""
+
+#: vc_extend/font-icons.php:13
+msgid "Android apps"
+msgstr ""
+
+#: vc_extend/font-icons.php:14
+msgid "Android archive"
+msgstr ""
+
+#: vc_extend/font-icons.php:15
+msgid "Android arrow back"
+msgstr ""
+
+#: vc_extend/font-icons.php:16
+msgid "Android arrow down"
+msgstr ""
+
+#: vc_extend/font-icons.php:17
+msgid "Android arrow dropdown"
+msgstr ""
+
+#: vc_extend/font-icons.php:18
+msgid "Android arrow dropdown circle"
+msgstr ""
+
+#: vc_extend/font-icons.php:19
+msgid "Android arrow dropleft"
+msgstr ""
+
+#: vc_extend/font-icons.php:20
+msgid "Android arrow dropleft circle"
+msgstr ""
+
+#: vc_extend/font-icons.php:21
+msgid "Android arrow dropright"
+msgstr ""
+
+#: vc_extend/font-icons.php:22
+msgid "Android arrow dropright circle"
+msgstr ""
+
+#: vc_extend/font-icons.php:23
+msgid "Android arrow dropup"
+msgstr ""
+
+#: vc_extend/font-icons.php:24
+msgid "Android arrow dropup circle"
+msgstr ""
+
+#: vc_extend/font-icons.php:25
+msgid "Android arrow forward"
+msgstr ""
+
+#: vc_extend/font-icons.php:26
+msgid "Android arrow up"
+msgstr ""
+
+#: vc_extend/font-icons.php:27
+msgid "Android attach"
+msgstr ""
+
+#: vc_extend/font-icons.php:28
+msgid "Android bar"
+msgstr ""
+
+#: vc_extend/font-icons.php:29
+msgid "Android bicycle"
+msgstr ""
+
+#: vc_extend/font-icons.php:30
+msgid "Android boat"
+msgstr ""
+
+#: vc_extend/font-icons.php:31
+msgid "Android bookmark"
+msgstr ""
+
+#: vc_extend/font-icons.php:32
+msgid "Android bulb"
+msgstr ""
+
+#: vc_extend/font-icons.php:33
+msgid "Android bus"
+msgstr ""
+
+#: vc_extend/font-icons.php:34
+msgid "Android calendar"
+msgstr ""
+
+#: vc_extend/font-icons.php:35
+msgid "Android call"
+msgstr ""
+
+#: vc_extend/font-icons.php:36
+msgid "Android camera"
+msgstr ""
+
+#: vc_extend/font-icons.php:37
+msgid "Android cancel"
+msgstr ""
+
+#: vc_extend/font-icons.php:38
+msgid "Android car"
+msgstr ""
+
+#: vc_extend/font-icons.php:39
+msgid "Android cart"
+msgstr ""
+
+#: vc_extend/font-icons.php:40
+msgid "Android chat"
+msgstr ""
+
+#: vc_extend/font-icons.php:41
+msgid "Android checkbox"
+msgstr ""
+
+#: vc_extend/font-icons.php:42
+msgid "Android checkbox blank"
+msgstr ""
+
+#: vc_extend/font-icons.php:43
+msgid "Android checkbox outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:44
+msgid "Android checkbox outline blank"
+msgstr ""
+
+#: vc_extend/font-icons.php:45
+msgid "Android checkmark circle"
+msgstr ""
+
+#: vc_extend/font-icons.php:46
+msgid "Android clipboard"
+msgstr ""
+
+#: vc_extend/font-icons.php:47
+msgid "Android close"
+msgstr ""
+
+#: vc_extend/font-icons.php:48
+msgid "Android cloud"
+msgstr ""
+
+#: vc_extend/font-icons.php:49
+msgid "Android cloud circle"
+msgstr ""
+
+#: vc_extend/font-icons.php:50
+msgid "Android cloud done"
+msgstr ""
+
+#: vc_extend/font-icons.php:51
+msgid "Android cloud outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:52
+msgid "Android color palette"
+msgstr ""
+
+#: vc_extend/font-icons.php:53
+msgid "Android compass"
+msgstr ""
+
+#: vc_extend/font-icons.php:54
+msgid "Android contact"
+msgstr ""
+
+#: vc_extend/font-icons.php:55
+msgid "Android contacts"
+msgstr ""
+
+#: vc_extend/font-icons.php:56
+msgid "Android contract"
+msgstr ""
+
+#: vc_extend/font-icons.php:57
+msgid "Android create"
+msgstr ""
+
+#: vc_extend/font-icons.php:58
+msgid "Android delete"
+msgstr ""
+
+#: vc_extend/font-icons.php:59
+msgid "Android desktop"
+msgstr ""
+
+#: vc_extend/font-icons.php:60
+msgid "Android document"
+msgstr ""
+
+#: vc_extend/font-icons.php:61
+msgid "Android done"
+msgstr ""
+
+#: vc_extend/font-icons.php:62
+msgid "Android done all"
+msgstr ""
+
+#: vc_extend/font-icons.php:63
+msgid "Android download"
+msgstr ""
+
+#: vc_extend/font-icons.php:64
+msgid "Android drafts"
+msgstr ""
+
+#: vc_extend/font-icons.php:65
+msgid "Android exit"
+msgstr ""
+
+#: vc_extend/font-icons.php:66
+msgid "Android expand"
+msgstr ""
+
+#: vc_extend/font-icons.php:67
+msgid "Android favorite"
+msgstr ""
+
+#: vc_extend/font-icons.php:68
+msgid "Android favorite outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:69
+msgid "Android film"
+msgstr ""
+
+#: vc_extend/font-icons.php:70
+msgid "Android folder"
+msgstr ""
+
+#: vc_extend/font-icons.php:71
+msgid "Android folder open"
+msgstr ""
+
+#: vc_extend/font-icons.php:72
+msgid "Android funnel"
+msgstr ""
+
+#: vc_extend/font-icons.php:73
+msgid "Android globe"
+msgstr ""
+
+#: vc_extend/font-icons.php:74
+msgid "Android hand"
+msgstr ""
+
+#: vc_extend/font-icons.php:75
+msgid "Android hangout"
+msgstr ""
+
+#: vc_extend/font-icons.php:76
+msgid "Android happy"
+msgstr ""
+
+#: vc_extend/font-icons.php:77
+msgid "Android home"
+msgstr ""
+
+#: vc_extend/font-icons.php:78
+msgid "Android image"
+msgstr ""
+
+#: vc_extend/font-icons.php:79
+msgid "Android laptop"
+msgstr ""
+
+#: vc_extend/font-icons.php:80
+msgid "Android list"
+msgstr ""
+
+#: vc_extend/font-icons.php:81
+msgid "Android locate"
+msgstr ""
+
+#: vc_extend/font-icons.php:82
+msgid "Android lock"
+msgstr ""
+
+#: vc_extend/font-icons.php:83
+msgid "Android mail"
+msgstr ""
+
+#: vc_extend/font-icons.php:84
+msgid "Android map"
+msgstr ""
+
+#: vc_extend/font-icons.php:85
+msgid "Android menu"
+msgstr ""
+
+#: vc_extend/font-icons.php:86
+msgid "Android microphone"
+msgstr ""
+
+#: vc_extend/font-icons.php:87
+msgid "Android microphone off"
+msgstr ""
+
+#: vc_extend/font-icons.php:88
+msgid "Android more horizontal"
+msgstr ""
+
+#: vc_extend/font-icons.php:89
+msgid "Android more vertical"
+msgstr ""
+
+#: vc_extend/font-icons.php:90
+msgid "Android navigate"
+msgstr ""
+
+#: vc_extend/font-icons.php:91
+msgid "Android notifications"
+msgstr ""
+
+#: vc_extend/font-icons.php:92
+msgid "Android notifications none"
+msgstr ""
+
+#: vc_extend/font-icons.php:93
+msgid "Android notifications off"
+msgstr ""
+
+#: vc_extend/font-icons.php:94
+msgid "Android open"
+msgstr ""
+
+#: vc_extend/font-icons.php:95
+msgid "Android options"
+msgstr ""
+
+#: vc_extend/font-icons.php:96
+msgid "Android people"
+msgstr ""
+
+#: vc_extend/font-icons.php:97
+msgid "Android person"
+msgstr ""
+
+#: vc_extend/font-icons.php:98
+msgid "Android person add"
+msgstr ""
+
+#: vc_extend/font-icons.php:99
+msgid "Android phone landscape"
+msgstr ""
+
+#: vc_extend/font-icons.php:100
+msgid "Android phone portrait"
+msgstr ""
+
+#: vc_extend/font-icons.php:101
+msgid "Android pin"
+msgstr ""
+
+#: vc_extend/font-icons.php:102
+msgid "Android plane"
+msgstr ""
+
+#: vc_extend/font-icons.php:103
+msgid "Android playstore"
+msgstr ""
+
+#: vc_extend/font-icons.php:104
+msgid "Android print"
+msgstr ""
+
+#: vc_extend/font-icons.php:105
+msgid "Android radio button off"
+msgstr ""
+
+#: vc_extend/font-icons.php:106
+msgid "Android radio button on"
+msgstr ""
+
+#: vc_extend/font-icons.php:107
+msgid "Android refresh"
+msgstr ""
+
+#: vc_extend/font-icons.php:108
+msgid "Android remove"
+msgstr ""
+
+#: vc_extend/font-icons.php:109
+msgid "Android remove circle"
+msgstr ""
+
+#: vc_extend/font-icons.php:110
+msgid "Android restaurant"
+msgstr ""
+
+#: vc_extend/font-icons.php:111
+msgid "Android sad"
+msgstr ""
+
+#: vc_extend/font-icons.php:112
+msgid "Android search"
+msgstr ""
+
+#: vc_extend/font-icons.php:113
+msgid "Android send"
+msgstr ""
+
+#: vc_extend/font-icons.php:114
+msgid "Android settings"
+msgstr ""
+
+#: vc_extend/font-icons.php:115
+msgid "Android share"
+msgstr ""
+
+#: vc_extend/font-icons.php:116
+msgid "Android share alt"
+msgstr ""
+
+#: vc_extend/font-icons.php:117
+msgid "Android star"
+msgstr ""
+
+#: vc_extend/font-icons.php:118
+msgid "Android star half"
+msgstr ""
+
+#: vc_extend/font-icons.php:119
+msgid "Android star outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:120
+msgid "Android stopwatch"
+msgstr ""
+
+#: vc_extend/font-icons.php:121
+msgid "Android subway"
+msgstr ""
+
+#: vc_extend/font-icons.php:122
+msgid "Android sunny"
+msgstr ""
+
+#: vc_extend/font-icons.php:123
+msgid "Android sync"
+msgstr ""
+
+#: vc_extend/font-icons.php:124
+msgid "Android textsms"
+msgstr ""
+
+#: vc_extend/font-icons.php:125
+msgid "Android time"
+msgstr ""
+
+#: vc_extend/font-icons.php:126
+msgid "Android train"
+msgstr ""
+
+#: vc_extend/font-icons.php:127
+msgid "Android unlock"
+msgstr ""
+
+#: vc_extend/font-icons.php:128
+msgid "Android upload"
+msgstr ""
+
+#: vc_extend/font-icons.php:129
+msgid "Android volume down"
+msgstr ""
+
+#: vc_extend/font-icons.php:130
+msgid "Android volume mute"
+msgstr ""
+
+#: vc_extend/font-icons.php:131
+msgid "Android volume off"
+msgstr ""
+
+#: vc_extend/font-icons.php:132
+msgid "Android volume up"
+msgstr ""
+
+#: vc_extend/font-icons.php:133
+msgid "Android walk"
+msgstr ""
+
+#: vc_extend/font-icons.php:134
+msgid "Android warning"
+msgstr ""
+
+#: vc_extend/font-icons.php:135
+msgid "Android watch"
+msgstr ""
+
+#: vc_extend/font-icons.php:136
+msgid "Android wifi"
+msgstr ""
+
+#: vc_extend/font-icons.php:137 vc_extend/font-icons.php:835
+msgid "Aperture"
+msgstr ""
+
+#: vc_extend/font-icons.php:138
+msgid "Archive"
+msgstr ""
+
+#: vc_extend/font-icons.php:139
+msgid "Arrow down a"
+msgstr ""
+
+#: vc_extend/font-icons.php:140
+msgid "Arrow down b"
+msgstr ""
+
+#: vc_extend/font-icons.php:141
+msgid "Arrow down c"
+msgstr ""
+
+#: vc_extend/font-icons.php:142
+msgid "Arrow expand"
+msgstr ""
+
+#: vc_extend/font-icons.php:143
+msgid "Arrow graph down left"
+msgstr ""
+
+#: vc_extend/font-icons.php:144
+msgid "Arrow graph down right"
+msgstr ""
+
+#: vc_extend/font-icons.php:145
+msgid "Arrow graph up left"
+msgstr ""
+
+#: vc_extend/font-icons.php:146
+msgid "Arrow graph up right"
+msgstr ""
+
+#: vc_extend/font-icons.php:147
+msgid "Arrow left a"
+msgstr ""
+
+#: vc_extend/font-icons.php:148
+msgid "Arrow left b"
+msgstr ""
+
+#: vc_extend/font-icons.php:149
+msgid "Arrow left c"
+msgstr ""
+
+#: vc_extend/font-icons.php:150
+msgid "Arrow move"
+msgstr ""
+
+#: vc_extend/font-icons.php:151
+msgid "Arrow resize"
+msgstr ""
+
+#: vc_extend/font-icons.php:152
+msgid "Arrow return left"
+msgstr ""
+
+#: vc_extend/font-icons.php:153
+msgid "Arrow return right"
+msgstr ""
+
+#: vc_extend/font-icons.php:154
+msgid "Arrow right a"
+msgstr ""
+
+#: vc_extend/font-icons.php:155
+msgid "Arrow right b"
+msgstr ""
+
+#: vc_extend/font-icons.php:156
+msgid "Arrow right c"
+msgstr ""
+
+#: vc_extend/font-icons.php:157
+msgid "Arrow shrink"
+msgstr ""
+
+#: vc_extend/font-icons.php:158
+msgid "Arrow swap"
+msgstr ""
+
+#: vc_extend/font-icons.php:159
+msgid "Arrow up a"
+msgstr ""
+
+#: vc_extend/font-icons.php:160
+msgid "Arrow up b"
+msgstr ""
+
+#: vc_extend/font-icons.php:161
+msgid "Arrow up c"
+msgstr ""
+
+#: vc_extend/font-icons.php:162
+msgid "Asterisk"
+msgstr ""
+
+#: vc_extend/font-icons.php:163
+msgid "At"
+msgstr ""
+
+#: vc_extend/font-icons.php:164
+msgid "Backspace"
+msgstr ""
+
+#: vc_extend/font-icons.php:165
+msgid "Backspace outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:166
+msgid "Bag"
+msgstr ""
+
+#: vc_extend/font-icons.php:167
+msgid "Battery charging"
+msgstr ""
+
+#: vc_extend/font-icons.php:168
+msgid "Battery empty"
+msgstr ""
+
+#: vc_extend/font-icons.php:169
+msgid "Battery full"
+msgstr ""
+
+#: vc_extend/font-icons.php:170
+msgid "Battery half"
+msgstr ""
+
+#: vc_extend/font-icons.php:171
+msgid "Battery low"
+msgstr ""
+
+#: vc_extend/font-icons.php:172 vc_extend/font-icons.php:809
+msgid "Beaker"
+msgstr ""
+
+#: vc_extend/font-icons.php:173
+msgid "Beer"
+msgstr ""
+
+#: vc_extend/font-icons.php:174
+msgid "Bluetooth"
+msgstr ""
+
+#: vc_extend/font-icons.php:175
+msgid "Bonfire"
+msgstr ""
+
+#: vc_extend/font-icons.php:176
+msgid "Bookmark"
+msgstr ""
+
+#: vc_extend/font-icons.php:177
+msgid "Bowtie"
+msgstr ""
+
+#: vc_extend/font-icons.php:178 vc_extend/font-icons.php:770
+msgid "Briefcase"
+msgstr ""
+
+#: vc_extend/font-icons.php:179
+msgid "Bug"
+msgstr ""
+
+#: vc_extend/font-icons.php:180
+msgid "Calculator"
+msgstr ""
+
+#: vc_extend/font-icons.php:181 vc_extend/font-icons.php:762
+msgid "Calendar"
+msgstr ""
+
+#: vc_extend/font-icons.php:182 vc_extend/font-icons.php:767
+msgid "Camera"
+msgstr ""
+
+#: vc_extend/font-icons.php:183
+msgid "Card"
+msgstr ""
+
+#: vc_extend/font-icons.php:184
+msgid "Cash"
+msgstr ""
+
+#: vc_extend/font-icons.php:185
+msgid "Chatbox"
+msgstr ""
+
+#: vc_extend/font-icons.php:186
+msgid "Chatbox working"
+msgstr ""
+
+#: vc_extend/font-icons.php:187
+msgid "Chatboxes"
+msgstr ""
+
+#: vc_extend/font-icons.php:188
+msgid "Chatbubble"
+msgstr ""
+
+#: vc_extend/font-icons.php:189
+msgid "Chatbubble working"
+msgstr ""
+
+#: vc_extend/font-icons.php:190
+msgid "Chatbubbles"
+msgstr ""
+
+#: vc_extend/font-icons.php:191
+msgid "Checkmark"
+msgstr ""
+
+#: vc_extend/font-icons.php:192
+msgid "Checkmark circled"
+msgstr ""
+
+#: vc_extend/font-icons.php:193
+msgid "Checkmark round"
+msgstr ""
+
+#: vc_extend/font-icons.php:194
+msgid "Chevron down"
+msgstr ""
+
+#: vc_extend/font-icons.php:195
+msgid "Chevron left"
+msgstr ""
+
+#: vc_extend/font-icons.php:196
+msgid "Chevron right"
+msgstr ""
+
+#: vc_extend/font-icons.php:197
+msgid "Chevron up"
+msgstr ""
+
+#: vc_extend/font-icons.php:198 vc_extend/font-icons.php:757
+msgid "Clipboard"
+msgstr ""
+
+#: vc_extend/font-icons.php:199 vc_extend/font-icons.php:834
+msgid "Clock"
+msgstr ""
+
+#: vc_extend/font-icons.php:200
+msgid "Close"
+msgstr ""
+
+#: vc_extend/font-icons.php:201
+msgid "Close circled"
+msgstr ""
+
+#: vc_extend/font-icons.php:202
+msgid "Close round"
+msgstr ""
+
+#: vc_extend/font-icons.php:203
+msgid "Closed captioning"
+msgstr ""
+
+#: vc_extend/font-icons.php:204 vc_extend/font-icons.php:824
+msgid "Cloud"
+msgstr ""
+
+#: vc_extend/font-icons.php:205
+msgid "Code"
+msgstr ""
+
+#: vc_extend/font-icons.php:206
+msgid "Code download"
+msgstr ""
+
+#: vc_extend/font-icons.php:207
+msgid "Code working"
+msgstr ""
+
+#: vc_extend/font-icons.php:208
+msgid "Coffee"
+msgstr ""
+
+#: vc_extend/font-icons.php:209 vc_extend/font-icons.php:832
+msgid "Compass"
+msgstr ""
+
+#: vc_extend/font-icons.php:210
+msgid "Compose"
+msgstr ""
+
+#: vc_extend/font-icons.php:211
+msgid "Connection bars"
+msgstr ""
+
+#: vc_extend/font-icons.php:212
+msgid "Contrast"
+msgstr ""
+
+#: vc_extend/font-icons.php:213
+msgid "Crop"
+msgstr ""
+
+#: vc_extend/font-icons.php:214
+msgid "Cube"
+msgstr ""
+
+#: vc_extend/font-icons.php:215
+msgid "Disc"
+msgstr ""
+
+#: vc_extend/font-icons.php:216 vc_extend/font-icons.php:754
+msgid "Document"
+msgstr ""
+
+#: vc_extend/font-icons.php:217
+msgid "Document text"
+msgstr ""
+
+#: vc_extend/font-icons.php:218
+msgid "Drag"
+msgstr ""
+
+#: vc_extend/font-icons.php:219
+msgid "Earth"
+msgstr ""
+
+#: vc_extend/font-icons.php:220
+msgid "Easel"
+msgstr ""
+
+#: vc_extend/font-icons.php:222
+msgid "Egg"
+msgstr ""
+
+#: vc_extend/font-icons.php:223
+msgid "Eject"
+msgstr ""
+
+#: vc_extend/font-icons.php:224
+msgid "Email"
+msgstr ""
+
+#: vc_extend/font-icons.php:225
+msgid "Email unread"
+msgstr ""
+
+#: vc_extend/font-icons.php:226
+msgid "Erlenmeyer flask"
+msgstr ""
+
+#: vc_extend/font-icons.php:227
+msgid "Erlenmeyer flask bubbles"
+msgstr ""
+
+#: vc_extend/font-icons.php:228
+msgid "Eye"
+msgstr ""
+
+#: vc_extend/font-icons.php:229
+msgid "Eye disabled"
+msgstr ""
+
+#: vc_extend/font-icons.php:230
+msgid "Female"
+msgstr ""
+
+#: vc_extend/font-icons.php:231
+msgid "Filing"
+msgstr ""
+
+#: vc_extend/font-icons.php:232
+msgid "Film marker"
+msgstr ""
+
+#: vc_extend/font-icons.php:233
+msgid "Fireball"
+msgstr ""
+
+#: vc_extend/font-icons.php:234 vc_extend/font-icons.php:785
+msgid "Flag"
+msgstr ""
+
+#: vc_extend/font-icons.php:235
+msgid "Flame"
+msgstr ""
+
+#: vc_extend/font-icons.php:236
+msgid "Flash"
+msgstr ""
+
+#: vc_extend/font-icons.php:237
+msgid "Flash off"
+msgstr ""
+
+#: vc_extend/font-icons.php:238
+msgid "Folder"
+msgstr ""
+
+#: vc_extend/font-icons.php:239
+msgid "Fork"
+msgstr ""
+
+#: vc_extend/font-icons.php:240
+msgid "Fork repo"
+msgstr ""
+
+#: vc_extend/font-icons.php:241
+msgid "Forward"
+msgstr ""
+
+#: vc_extend/font-icons.php:242
+msgid "Funnel"
+msgstr ""
+
+#: vc_extend/font-icons.php:243
+msgid "Gear a"
+msgstr ""
+
+#: vc_extend/font-icons.php:244
+msgid "Gear b"
+msgstr ""
+
+#: vc_extend/font-icons.php:246
+msgid "Hammer"
+msgstr ""
+
+#: vc_extend/font-icons.php:247 vc_extend/font-icons.php:840
+msgid "Happy"
+msgstr ""
+
+#: vc_extend/font-icons.php:248
+msgid "Happy outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:249
+msgid "Headphone"
+msgstr ""
+
+#: vc_extend/font-icons.php:250 vc_extend/font-icons.php:823
+msgid "Heart"
+msgstr ""
+
+#: vc_extend/font-icons.php:251
+msgid "Heart broken"
+msgstr ""
+
+#: vc_extend/font-icons.php:252
+msgid "Help"
+msgstr ""
+
+#: vc_extend/font-icons.php:253
+msgid "Help buoy"
+msgstr ""
+
+#: vc_extend/font-icons.php:254
+msgid "Help circled"
+msgstr ""
+
+#: vc_extend/font-icons.php:255
+msgid "Home"
+msgstr ""
+
+#: vc_extend/font-icons.php:256
+msgid "Icecream"
+msgstr ""
+
+#: vc_extend/font-icons.php:260
+msgid "Information circled"
+msgstr ""
+
+#: vc_extend/font-icons.php:261
+msgid "Ionic"
+msgstr ""
+
+#: vc_extend/font-icons.php:262
+msgid "Ios alarm"
+msgstr ""
+
+#: vc_extend/font-icons.php:263
+msgid "Ios alarm outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:264
+msgid "Ios albums"
+msgstr ""
+
+#: vc_extend/font-icons.php:265
+msgid "Ios albums outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:266
+msgid "Ios americanfootball"
+msgstr ""
+
+#: vc_extend/font-icons.php:267
+msgid "Ios americanfootball outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:268
+msgid "Ios analytics"
+msgstr ""
+
+#: vc_extend/font-icons.php:269
+msgid "Ios analytics outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:270
+msgid "Ios arrow back"
+msgstr ""
+
+#: vc_extend/font-icons.php:271
+msgid "Ios arrow down"
+msgstr ""
+
+#: vc_extend/font-icons.php:272
+msgid "Ios arrow forward"
+msgstr ""
+
+#: vc_extend/font-icons.php:273
+msgid "Ios arrow left"
+msgstr ""
+
+#: vc_extend/font-icons.php:274
+msgid "Ios arrow right"
+msgstr ""
+
+#: vc_extend/font-icons.php:275
+msgid "Ios arrow thin down"
+msgstr ""
+
+#: vc_extend/font-icons.php:276
+msgid "Ios arrow thin left"
+msgstr ""
+
+#: vc_extend/font-icons.php:277
+msgid "Ios arrow thin right"
+msgstr ""
+
+#: vc_extend/font-icons.php:278
+msgid "Ios arrow thin up"
+msgstr ""
+
+#: vc_extend/font-icons.php:279
+msgid "Ios arrow up"
+msgstr ""
+
+#: vc_extend/font-icons.php:280
+msgid "Ios at"
+msgstr ""
+
+#: vc_extend/font-icons.php:281
+msgid "Ios at outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:282
+msgid "Ios barcode"
+msgstr ""
+
+#: vc_extend/font-icons.php:283
+msgid "Ios barcode outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:284
+msgid "Ios baseball"
+msgstr ""
+
+#: vc_extend/font-icons.php:285
+msgid "Ios baseball outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:286
+msgid "Ios basketball"
+msgstr ""
+
+#: vc_extend/font-icons.php:287
+msgid "Ios basketball outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:288
+msgid "Ios bell"
+msgstr ""
+
+#: vc_extend/font-icons.php:289
+msgid "Ios bell outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:290
+msgid "Ios body"
+msgstr ""
+
+#: vc_extend/font-icons.php:291
+msgid "Ios body outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:292
+msgid "Ios bolt"
+msgstr ""
+
+#: vc_extend/font-icons.php:293
+msgid "Ios bolt outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:294
+msgid "Ios book"
+msgstr ""
+
+#: vc_extend/font-icons.php:295
+msgid "Ios book outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:296
+msgid "Ios bookmarks"
+msgstr ""
+
+#: vc_extend/font-icons.php:297
+msgid "Ios bookmarks outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:298
+msgid "Ios box"
+msgstr ""
+
+#: vc_extend/font-icons.php:299
+msgid "Ios box outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:300
+msgid "Ios briefcase"
+msgstr ""
+
+#: vc_extend/font-icons.php:301
+msgid "Ios briefcase outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:302
+msgid "Ios browsers"
+msgstr ""
+
+#: vc_extend/font-icons.php:303
+msgid "Ios browsers outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:304
+msgid "Ios calculator"
+msgstr ""
+
+#: vc_extend/font-icons.php:305
+msgid "Ios calculator outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:306
+msgid "Ios calendar"
+msgstr ""
+
+#: vc_extend/font-icons.php:307
+msgid "Ios calendar outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:308
+msgid "Ios camera"
+msgstr ""
+
+#: vc_extend/font-icons.php:309
+msgid "Ios camera outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:310
+msgid "Ios cart"
+msgstr ""
+
+#: vc_extend/font-icons.php:311
+msgid "Ios cart outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:312
+msgid "Ios chatboxes"
+msgstr ""
+
+#: vc_extend/font-icons.php:313
+msgid "Ios chatboxes outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:314
+msgid "Ios chatbubble"
+msgstr ""
+
+#: vc_extend/font-icons.php:315
+msgid "Ios chatbubble outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:316
+msgid "Ios checkmark"
+msgstr ""
+
+#: vc_extend/font-icons.php:317
+msgid "Ios checkmark empty"
+msgstr ""
+
+#: vc_extend/font-icons.php:318
+msgid "Ios checkmark outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:319
+msgid "Ios circle filled"
+msgstr ""
+
+#: vc_extend/font-icons.php:320
+msgid "Ios circle outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:321
+msgid "Ios clock"
+msgstr ""
+
+#: vc_extend/font-icons.php:322
+msgid "Ios clock outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:323
+msgid "Ios close"
+msgstr ""
+
+#: vc_extend/font-icons.php:324
+msgid "Ios close empty"
+msgstr ""
+
+#: vc_extend/font-icons.php:325
+msgid "Ios close outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:326
+msgid "Ios cloud"
+msgstr ""
+
+#: vc_extend/font-icons.php:327
+msgid "Ios cloud download"
+msgstr ""
+
+#: vc_extend/font-icons.php:328
+msgid "Ios cloud download outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:329
+msgid "Ios cloud outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:330
+msgid "Ios cloud upload"
+msgstr ""
+
+#: vc_extend/font-icons.php:331
+msgid "Ios cloud upload outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:332
+msgid "Ios cloudy"
+msgstr ""
+
+#: vc_extend/font-icons.php:333
+msgid "Ios cloudy night"
+msgstr ""
+
+#: vc_extend/font-icons.php:334
+msgid "Ios cloudy night outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:335
+msgid "Ios cloudy outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:336
+msgid "Ios cog"
+msgstr ""
+
+#: vc_extend/font-icons.php:337
+msgid "Ios cog outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:338
+msgid "Ios color filter"
+msgstr ""
+
+#: vc_extend/font-icons.php:339
+msgid "Ios color filter outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:340
+msgid "Ios color wand"
+msgstr ""
+
+#: vc_extend/font-icons.php:341
+msgid "Ios color wand outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:342
+msgid "Ios compose"
+msgstr ""
+
+#: vc_extend/font-icons.php:343
+msgid "Ios compose outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:344
+msgid "Ios contact"
+msgstr ""
+
+#: vc_extend/font-icons.php:345
+msgid "Ios contact outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:346
+msgid "Ios copy"
+msgstr ""
+
+#: vc_extend/font-icons.php:347
+msgid "Ios copy outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:348
+msgid "Ios crop"
+msgstr ""
+
+#: vc_extend/font-icons.php:349
+msgid "Ios crop strong"
+msgstr ""
+
+#: vc_extend/font-icons.php:350
+msgid "Ios download"
+msgstr ""
+
+#: vc_extend/font-icons.php:351
+msgid "Ios download outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:352
+msgid "Ios drag"
+msgstr ""
+
+#: vc_extend/font-icons.php:353
+msgid "Ios email"
+msgstr ""
+
+#: vc_extend/font-icons.php:354
+msgid "Ios email outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:355
+msgid "Ios eye"
+msgstr ""
+
+#: vc_extend/font-icons.php:356
+msgid "Ios eye outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:357
+msgid "Ios fastforward"
+msgstr ""
+
+#: vc_extend/font-icons.php:358
+msgid "Ios fastforward outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:359
+msgid "Ios filing"
+msgstr ""
+
+#: vc_extend/font-icons.php:360
+msgid "Ios filing outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:361
+msgid "Ios film"
+msgstr ""
+
+#: vc_extend/font-icons.php:362
+msgid "Ios film outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:363
+msgid "Ios flag"
+msgstr ""
+
+#: vc_extend/font-icons.php:364
+msgid "Ios flag outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:365
+msgid "Ios flame"
+msgstr ""
+
+#: vc_extend/font-icons.php:366
+msgid "Ios flame outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:367
+msgid "Ios flask"
+msgstr ""
+
+#: vc_extend/font-icons.php:368
+msgid "Ios flask outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:369
+msgid "Ios flower"
+msgstr ""
+
+#: vc_extend/font-icons.php:370
+msgid "Ios flower outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:371
+msgid "Ios folder"
+msgstr ""
+
+#: vc_extend/font-icons.php:372
+msgid "Ios folder outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:373
+msgid "Ios football"
+msgstr ""
+
+#: vc_extend/font-icons.php:374
+msgid "Ios football outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:375
+msgid "Ios game controller a"
+msgstr ""
+
+#: vc_extend/font-icons.php:376
+msgid "Ios game controller a outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:377
+msgid "Ios game controller b"
+msgstr ""
+
+#: vc_extend/font-icons.php:378
+msgid "Ios game controller b outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:379
+msgid "Ios gear"
+msgstr ""
+
+#: vc_extend/font-icons.php:380
+msgid "Ios gear outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:381
+msgid "Ios glasses"
+msgstr ""
+
+#: vc_extend/font-icons.php:382
+msgid "Ios glasses outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:383
+msgid "Ios grid view"
+msgstr ""
+
+#: vc_extend/font-icons.php:384
+msgid "Ios grid view outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:385
+msgid "Ios heart"
+msgstr ""
+
+#: vc_extend/font-icons.php:386
+msgid "Ios heart outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:387
+msgid "Ios help"
+msgstr ""
+
+#: vc_extend/font-icons.php:388
+msgid "Ios help empty"
+msgstr ""
+
+#: vc_extend/font-icons.php:389
+msgid "Ios help outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:390
+msgid "Ios home"
+msgstr ""
+
+#: vc_extend/font-icons.php:391
+msgid "Ios home outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:392
+msgid "Ios infinite"
+msgstr ""
+
+#: vc_extend/font-icons.php:393
+msgid "Ios infinite outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:394
+msgid "Ios information"
+msgstr ""
+
+#: vc_extend/font-icons.php:395
+msgid "Ios information empty"
+msgstr ""
+
+#: vc_extend/font-icons.php:396
+msgid "Ios information outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:397
+msgid "Ios ionic outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:398
+msgid "Ios keypad"
+msgstr ""
+
+#: vc_extend/font-icons.php:399
+msgid "Ios keypad outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:400
+msgid "Ios lightbulb"
+msgstr ""
+
+#: vc_extend/font-icons.php:401
+msgid "Ios lightbulb outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:402
+msgid "Ios list"
+msgstr ""
+
+#: vc_extend/font-icons.php:403
+msgid "Ios list outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:404
+msgid "Ios location"
+msgstr ""
+
+#: vc_extend/font-icons.php:405
+msgid "Ios location outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:406
+msgid "Ios locked"
+msgstr ""
+
+#: vc_extend/font-icons.php:407
+msgid "Ios locked outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:408
+msgid "Ios loop"
+msgstr ""
+
+#: vc_extend/font-icons.php:409
+msgid "Ios loop strong"
+msgstr ""
+
+#: vc_extend/font-icons.php:410
+msgid "Ios medical"
+msgstr ""
+
+#: vc_extend/font-icons.php:411
+msgid "Ios medical outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:412
+msgid "Ios medkit"
+msgstr ""
+
+#: vc_extend/font-icons.php:413
+msgid "Ios medkit outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:414
+msgid "Ios mic"
+msgstr ""
+
+#: vc_extend/font-icons.php:415
+msgid "Ios mic off"
+msgstr ""
+
+#: vc_extend/font-icons.php:416
+msgid "Ios mic outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:417
+msgid "Ios minus"
+msgstr ""
+
+#: vc_extend/font-icons.php:418
+msgid "Ios minus empty"
+msgstr ""
+
+#: vc_extend/font-icons.php:419
+msgid "Ios minus outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:420
+msgid "Ios monitor"
+msgstr ""
+
+#: vc_extend/font-icons.php:421
+msgid "Ios monitor outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:422
+msgid "Ios moon"
+msgstr ""
+
+#: vc_extend/font-icons.php:423
+msgid "Ios moon outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:424
+msgid "Ios more"
+msgstr ""
+
+#: vc_extend/font-icons.php:425
+msgid "Ios more outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:426
+msgid "Ios musical note"
+msgstr ""
+
+#: vc_extend/font-icons.php:427
+msgid "Ios musical notes"
+msgstr ""
+
+#: vc_extend/font-icons.php:428
+msgid "Ios navigate"
+msgstr ""
+
+#: vc_extend/font-icons.php:429
+msgid "Ios navigate outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:430
+msgid "Ios nutrition"
+msgstr ""
+
+#: vc_extend/font-icons.php:431
+msgid "Ios nutrition outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:432
+msgid "Ios paper"
+msgstr ""
+
+#: vc_extend/font-icons.php:433
+msgid "Ios paper outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:434
+msgid "Ios paperplane"
+msgstr ""
+
+#: vc_extend/font-icons.php:435
+msgid "Ios paperplane outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:436
+msgid "Ios partlysunny"
+msgstr ""
+
+#: vc_extend/font-icons.php:437
+msgid "Ios partlysunny outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:438
+msgid "Ios pause"
+msgstr ""
+
+#: vc_extend/font-icons.php:439
+msgid "Ios pause outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:440
+msgid "Ios paw"
+msgstr ""
+
+#: vc_extend/font-icons.php:441
+msgid "Ios paw outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:442
+msgid "Ios people"
+msgstr ""
+
+#: vc_extend/font-icons.php:443
+msgid "Ios people outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:444
+msgid "Ios person"
+msgstr ""
+
+#: vc_extend/font-icons.php:445
+msgid "Ios person outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:446
+msgid "Ios personadd"
+msgstr ""
+
+#: vc_extend/font-icons.php:447
+msgid "Ios personadd outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:448
+msgid "Ios photos"
+msgstr ""
+
+#: vc_extend/font-icons.php:449
+msgid "Ios photos outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:450
+msgid "Ios pie"
+msgstr ""
+
+#: vc_extend/font-icons.php:451
+msgid "Ios pie outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:452
+msgid "Ios pint"
+msgstr ""
+
+#: vc_extend/font-icons.php:453
+msgid "Ios pint outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:454
+msgid "Ios play"
+msgstr ""
+
+#: vc_extend/font-icons.php:455
+msgid "Ios play outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:456
+msgid "Ios plus"
+msgstr ""
+
+#: vc_extend/font-icons.php:457
+msgid "Ios plus empty"
+msgstr ""
+
+#: vc_extend/font-icons.php:458
+msgid "Ios plus outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:459
+msgid "Ios pricetag"
+msgstr ""
+
+#: vc_extend/font-icons.php:460
+msgid "Ios pricetag outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:461
+msgid "Ios pricetags"
+msgstr ""
+
+#: vc_extend/font-icons.php:462
+msgid "Ios pricetags outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:463
+msgid "Ios printer"
+msgstr ""
+
+#: vc_extend/font-icons.php:464
+msgid "Ios printer outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:465
+msgid "Ios pulse"
+msgstr ""
+
+#: vc_extend/font-icons.php:466
+msgid "Ios pulse strong"
+msgstr ""
+
+#: vc_extend/font-icons.php:467
+msgid "Ios rainy"
+msgstr ""
+
+#: vc_extend/font-icons.php:468
+msgid "Ios rainy outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:469
+msgid "Ios recording"
+msgstr ""
+
+#: vc_extend/font-icons.php:470
+msgid "Ios recording outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:471
+msgid "Ios redo"
+msgstr ""
+
+#: vc_extend/font-icons.php:472
+msgid "Ios redo outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:473
+msgid "Ios refresh"
+msgstr ""
+
+#: vc_extend/font-icons.php:474
+msgid "Ios refresh empty"
+msgstr ""
+
+#: vc_extend/font-icons.php:475
+msgid "Ios refresh outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:476
+msgid "Ios reload"
+msgstr ""
+
+#: vc_extend/font-icons.php:477
+msgid "Ios reverse camera"
+msgstr ""
+
+#: vc_extend/font-icons.php:478
+msgid "Ios reverse camera outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:479
+msgid "Ios rewind"
+msgstr ""
+
+#: vc_extend/font-icons.php:480
+msgid "Ios rewind outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:481
+msgid "Ios rose"
+msgstr ""
+
+#: vc_extend/font-icons.php:482
+msgid "Ios rose outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:483
+msgid "Ios search"
+msgstr ""
+
+#: vc_extend/font-icons.php:484
+msgid "Ios search strong"
+msgstr ""
+
+#: vc_extend/font-icons.php:485
+msgid "Ios settings"
+msgstr ""
+
+#: vc_extend/font-icons.php:486
+msgid "Ios settings strong"
+msgstr ""
+
+#: vc_extend/font-icons.php:487
+msgid "Ios shuffle"
+msgstr ""
+
+#: vc_extend/font-icons.php:488
+msgid "Ios shuffle strong"
+msgstr ""
+
+#: vc_extend/font-icons.php:489
+msgid "Ios skipbackward"
+msgstr ""
+
+#: vc_extend/font-icons.php:490
+msgid "Ios skipbackward outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:491
+msgid "Ios skipforward"
+msgstr ""
+
+#: vc_extend/font-icons.php:492
+msgid "Ios skipforward outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:493
+msgid "Ios snowy"
+msgstr ""
+
+#: vc_extend/font-icons.php:494
+msgid "Ios speedometer"
+msgstr ""
+
+#: vc_extend/font-icons.php:495
+msgid "Ios speedometer outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:496
+msgid "Ios star"
+msgstr ""
+
+#: vc_extend/font-icons.php:497
+msgid "Ios star half"
+msgstr ""
+
+#: vc_extend/font-icons.php:498
+msgid "Ios star outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:499
+msgid "Ios stopwatch"
+msgstr ""
+
+#: vc_extend/font-icons.php:500
+msgid "Ios stopwatch outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:501
+msgid "Ios sunny"
+msgstr ""
+
+#: vc_extend/font-icons.php:502
+msgid "Ios sunny outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:503
+msgid "Ios telephone"
+msgstr ""
+
+#: vc_extend/font-icons.php:504
+msgid "Ios telephone outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:505
+msgid "Ios tennisball"
+msgstr ""
+
+#: vc_extend/font-icons.php:506
+msgid "Ios tennisball outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:507
+msgid "Ios thunderstorm"
+msgstr ""
+
+#: vc_extend/font-icons.php:508
+msgid "Ios thunderstorm outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:509
+msgid "Ios time"
+msgstr ""
+
+#: vc_extend/font-icons.php:510
+msgid "Ios time outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:511
+msgid "Ios timer"
+msgstr ""
+
+#: vc_extend/font-icons.php:512
+msgid "Ios timer outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:513
+msgid "Ios toggle"
+msgstr ""
+
+#: vc_extend/font-icons.php:514
+msgid "Ios toggle outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:515
+msgid "Ios trash"
+msgstr ""
+
+#: vc_extend/font-icons.php:516
+msgid "Ios trash outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:517
+msgid "Ios undo"
+msgstr ""
+
+#: vc_extend/font-icons.php:518
+msgid "Ios undo outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:519
+msgid "Ios unlocked"
+msgstr ""
+
+#: vc_extend/font-icons.php:520
+msgid "Ios unlocked outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:521
+msgid "Ios upload"
+msgstr ""
+
+#: vc_extend/font-icons.php:522
+msgid "Ios upload outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:523
+msgid "Ios videocam"
+msgstr ""
+
+#: vc_extend/font-icons.php:524
+msgid "Ios videocam outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:525
+msgid "Ios volume high"
+msgstr ""
+
+#: vc_extend/font-icons.php:526
+msgid "Ios volume low"
+msgstr ""
+
+#: vc_extend/font-icons.php:527
+msgid "Ios wineglass"
+msgstr ""
+
+#: vc_extend/font-icons.php:528
+msgid "Ios wineglass outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:529
+msgid "Ios world"
+msgstr ""
+
+#: vc_extend/font-icons.php:530
+msgid "Ios world outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:531
+msgid "Ipad"
+msgstr ""
+
+#: vc_extend/font-icons.php:532
+msgid "Iphone"
+msgstr ""
+
+#: vc_extend/font-icons.php:533
+msgid "Ipod"
+msgstr ""
+
+#: vc_extend/font-icons.php:534
+msgid "Jet"
+msgstr ""
+
+#: vc_extend/font-icons.php:535 vc_extend/font-icons.php:793
+msgid "Key"
+msgstr ""
+
+#: vc_extend/font-icons.php:536
+msgid "Knife"
+msgstr ""
+
+#: vc_extend/font-icons.php:537 vc_extend/font-icons.php:750
+msgid "Laptop"
+msgstr ""
+
+#: vc_extend/font-icons.php:538
+msgid "Leaf"
+msgstr ""
+
+#: vc_extend/font-icons.php:539
+msgid "Levels"
+msgstr ""
+
+#: vc_extend/font-icons.php:540
+msgid "Lightbulb"
+msgstr ""
+
+#: vc_extend/font-icons.php:542
+msgid "Load a"
+msgstr ""
+
+#: vc_extend/font-icons.php:543
+msgid "Load b"
+msgstr ""
+
+#: vc_extend/font-icons.php:544
+msgid "Load c"
+msgstr ""
+
+#: vc_extend/font-icons.php:545
+msgid "Load d"
+msgstr ""
+
+#: vc_extend/font-icons.php:546
+msgid "Location"
+msgstr ""
+
+#: vc_extend/font-icons.php:547
+msgid "Lock combination"
+msgstr ""
+
+#: vc_extend/font-icons.php:548
+msgid "Locked"
+msgstr ""
+
+#: vc_extend/font-icons.php:549
+msgid "Log in"
+msgstr ""
+
+#: vc_extend/font-icons.php:550
+msgid "Log out"
+msgstr ""
+
+#: vc_extend/font-icons.php:551
+msgid "Loop"
+msgstr ""
+
+#: vc_extend/font-icons.php:552
+msgid "Magnet"
+msgstr ""
+
+#: vc_extend/font-icons.php:553
+msgid "Male"
+msgstr ""
+
+#: vc_extend/font-icons.php:554
+msgid "Man"
+msgstr ""
+
+#: vc_extend/font-icons.php:555 vc_extend/font-icons.php:786
+msgid "Map"
+msgstr ""
+
+#: vc_extend/font-icons.php:556
+msgid "Medkit"
+msgstr ""
+
+#: vc_extend/font-icons.php:557
+msgid "Merge"
+msgstr ""
+
+#: vc_extend/font-icons.php:558
+msgid "Mic a"
+msgstr ""
+
+#: vc_extend/font-icons.php:559
+msgid "Mic b"
+msgstr ""
+
+#: vc_extend/font-icons.php:560
+msgid "Mic c"
+msgstr ""
+
+#: vc_extend/font-icons.php:561
+msgid "Minus"
+msgstr ""
+
+#: vc_extend/font-icons.php:562
+msgid "Minus circled"
+msgstr ""
+
+#: vc_extend/font-icons.php:563
+msgid "Minus round"
+msgstr ""
+
+#: vc_extend/font-icons.php:564
+msgid "Model s"
+msgstr ""
+
+#: vc_extend/font-icons.php:565
+msgid "Monitor"
+msgstr ""
+
+#: vc_extend/font-icons.php:566
+msgid "More"
+msgstr ""
+
+#: vc_extend/font-icons.php:567
+msgid "Mouse"
+msgstr ""
+
+#: vc_extend/font-icons.php:568
+msgid "Music note"
+msgstr ""
+
+#: vc_extend/font-icons.php:569
+msgid "Navicon"
+msgstr ""
+
+#: vc_extend/font-icons.php:570
+msgid "Navicon round"
+msgstr ""
+
+#: vc_extend/font-icons.php:571
+msgid "Navigate"
+msgstr ""
+
+#: vc_extend/font-icons.php:572
+msgid "Network"
+msgstr ""
+
+#: vc_extend/font-icons.php:573
+msgid "No smoking"
+msgstr ""
+
+#: vc_extend/font-icons.php:574
+msgid "Nuclear"
+msgstr ""
+
+#: vc_extend/font-icons.php:575
+msgid "Outlet"
+msgstr ""
+
+#: vc_extend/font-icons.php:576
+msgid "Paintbrush"
+msgstr ""
+
+#: vc_extend/font-icons.php:577
+msgid "Paintbucket"
+msgstr ""
+
+#: vc_extend/font-icons.php:578
+msgid "Paper airplane"
+msgstr ""
+
+#: vc_extend/font-icons.php:579 vc_extend/font-icons.php:794
+msgid "Paperclip"
+msgstr ""
+
+#: vc_extend/font-icons.php:580
+msgid "Pause"
+msgstr ""
+
+#: vc_extend/font-icons.php:581
+msgid "Person"
+msgstr ""
+
+#: vc_extend/font-icons.php:582
+msgid "Person add"
+msgstr ""
+
+#: vc_extend/font-icons.php:583
+msgid "Person stalker"
+msgstr ""
+
+#: vc_extend/font-icons.php:584
+msgid "Pie graph"
+msgstr ""
+
+#: vc_extend/font-icons.php:585
+msgid "Pin"
+msgstr ""
+
+#: vc_extend/font-icons.php:586
+msgid "Pinpoint"
+msgstr ""
+
+#: vc_extend/font-icons.php:587
+msgid "Pizza"
+msgstr ""
+
+#: vc_extend/font-icons.php:588
+msgid "Plane"
+msgstr ""
+
+#: vc_extend/font-icons.php:589
+msgid "Planet"
+msgstr ""
+
+#: vc_extend/font-icons.php:590
+msgid "Play"
+msgstr ""
+
+#: vc_extend/font-icons.php:591
+msgid "Playstation"
+msgstr ""
+
+#: vc_extend/font-icons.php:592
+msgid "Plus"
+msgstr ""
+
+#: vc_extend/font-icons.php:593
+msgid "Plus circled"
+msgstr ""
+
+#: vc_extend/font-icons.php:594
+msgid "Plus round"
+msgstr ""
+
+#: vc_extend/font-icons.php:595
+msgid "Podium"
+msgstr ""
+
+#: vc_extend/font-icons.php:596
+msgid "Pound"
+msgstr ""
+
+#: vc_extend/font-icons.php:597
+msgid "Power"
+msgstr ""
+
+#: vc_extend/font-icons.php:598
+msgid "Pricetag"
+msgstr ""
+
+#: vc_extend/font-icons.php:599
+msgid "Pricetags"
+msgstr ""
+
+#: vc_extend/font-icons.php:600 vc_extend/font-icons.php:768
+msgid "Printer"
+msgstr ""
+
+#: vc_extend/font-icons.php:601
+msgid "Pull request"
+msgstr ""
+
+#: vc_extend/font-icons.php:602
+msgid "Qr scanner"
+msgstr ""
+
+#: vc_extend/font-icons.php:603 vc_extend/font-icons.php:836
+msgid "Quote"
+msgstr ""
+
+#: vc_extend/font-icons.php:604
+msgid "Radio waves"
+msgstr ""
+
+#: vc_extend/font-icons.php:605
+msgid "Record"
+msgstr ""
+
+#: vc_extend/font-icons.php:606 vc_extend/font-icons.php:839
+msgid "Refresh"
+msgstr ""
+
+#: vc_extend/font-icons.php:607
+msgid "Reply"
+msgstr ""
+
+#: vc_extend/font-icons.php:608
+msgid "Reply all"
+msgstr ""
+
+#: vc_extend/font-icons.php:609
+msgid "Ribbon a"
+msgstr ""
+
+#: vc_extend/font-icons.php:610
+msgid "Ribbon b"
+msgstr ""
+
+#: vc_extend/font-icons.php:611 vc_extend/font-icons.php:841
+msgid "Sad"
+msgstr ""
+
+#: vc_extend/font-icons.php:612
+msgid "Sad outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:613 vc_extend/font-icons.php:802
+msgid "Scissors"
+msgstr ""
+
+#: vc_extend/font-icons.php:614 vc_extend/font-icons.php:756
+msgid "Search"
+msgstr ""
+
+#: vc_extend/font-icons.php:615
+msgid "Settings"
+msgstr ""
+
+#: vc_extend/font-icons.php:617
+msgid "Shuffle"
+msgstr ""
+
+#: vc_extend/font-icons.php:618
+msgid "Skip backward"
+msgstr ""
+
+#: vc_extend/font-icons.php:619
+msgid "Skip forward"
+msgstr ""
+
+#: vc_extend/font-icons.php:620
+msgid "Social android"
+msgstr ""
+
+#: vc_extend/font-icons.php:621
+msgid "Social android outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:622
+msgid "Social angular"
+msgstr ""
+
+#: vc_extend/font-icons.php:623
+msgid "Social angular outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:624
+msgid "Social apple"
+msgstr ""
+
+#: vc_extend/font-icons.php:625
+msgid "Social apple outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:626
+msgid "Social bitcoin"
+msgstr ""
+
+#: vc_extend/font-icons.php:627
+msgid "Social bitcoin outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:628
+msgid "Social buffer"
+msgstr ""
+
+#: vc_extend/font-icons.php:629
+msgid "Social buffer outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:630
+msgid "Social chrome"
+msgstr ""
+
+#: vc_extend/font-icons.php:631
+msgid "Social chrome outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:632
+msgid "Social codepen"
+msgstr ""
+
+#: vc_extend/font-icons.php:633
+msgid "Social codepen outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:634
+msgid "Social css3"
+msgstr ""
+
+#: vc_extend/font-icons.php:635
+msgid "Social css3 outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:636
+msgid "Social designernews"
+msgstr ""
+
+#: vc_extend/font-icons.php:637
+msgid "Social designernews outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:638
+msgid "Social dribbble"
+msgstr ""
+
+#: vc_extend/font-icons.php:639
+msgid "Social dribbble outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:640
+msgid "Social dropbox"
+msgstr ""
+
+#: vc_extend/font-icons.php:641
+msgid "Social dropbox outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:642
+msgid "Social euro"
+msgstr ""
+
+#: vc_extend/font-icons.php:643
+msgid "Social euro outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:644
+msgid "Social facebook"
+msgstr ""
+
+#: vc_extend/font-icons.php:645
+msgid "Social facebook outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:646
+msgid "Social foursquare"
+msgstr ""
+
+#: vc_extend/font-icons.php:647
+msgid "Social foursquare outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:648
+msgid "Social freebsd devil"
+msgstr ""
+
+#: vc_extend/font-icons.php:649
+msgid "Social github"
+msgstr ""
+
+#: vc_extend/font-icons.php:650
+msgid "Social github outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:651
+msgid "Social google"
+msgstr ""
+
+#: vc_extend/font-icons.php:652
+msgid "Social google outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:653
+msgid "Social googleplus"
+msgstr ""
+
+#: vc_extend/font-icons.php:654
+msgid "Social googleplus outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:655
+msgid "Social hackernews"
+msgstr ""
+
+#: vc_extend/font-icons.php:656
+msgid "Social hackernews outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:657
+msgid "Social html5"
+msgstr ""
+
+#: vc_extend/font-icons.php:658
+msgid "Social html5 outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:659
+msgid "Social instagram"
+msgstr ""
+
+#: vc_extend/font-icons.php:660
+msgid "Social instagram outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:661
+msgid "Social javascript"
+msgstr ""
+
+#: vc_extend/font-icons.php:662
+msgid "Social javascript outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:663
+msgid "Social linkedin"
+msgstr ""
+
+#: vc_extend/font-icons.php:664
+msgid "Social linkedin outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:665
+msgid "Social markdown"
+msgstr ""
+
+#: vc_extend/font-icons.php:666
+msgid "Social nodejs"
+msgstr ""
+
+#: vc_extend/font-icons.php:667
+msgid "Social octocat"
+msgstr ""
+
+#: vc_extend/font-icons.php:668
+msgid "Social pinterest"
+msgstr ""
+
+#: vc_extend/font-icons.php:669
+msgid "Social pinterest outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:670
+msgid "Social python"
+msgstr ""
+
+#: vc_extend/font-icons.php:671
+msgid "Social reddit"
+msgstr ""
+
+#: vc_extend/font-icons.php:672
+msgid "Social reddit outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:673
+msgid "Social rss"
+msgstr ""
+
+#: vc_extend/font-icons.php:674
+msgid "Social rss outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:675
+msgid "Social sass"
+msgstr ""
+
+#: vc_extend/font-icons.php:676
+msgid "Social skype"
+msgstr ""
+
+#: vc_extend/font-icons.php:677
+msgid "Social skype outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:678
+msgid "Social snapchat"
+msgstr ""
+
+#: vc_extend/font-icons.php:679
+msgid "Social snapchat outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:680
+msgid "Social tumblr"
+msgstr ""
+
+#: vc_extend/font-icons.php:681
+msgid "Social tumblr outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:682
+msgid "Social tux"
+msgstr ""
+
+#: vc_extend/font-icons.php:683
+msgid "Social twitch"
+msgstr ""
+
+#: vc_extend/font-icons.php:684
+msgid "Social twitch outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:685
+msgid "Social twitter"
+msgstr ""
+
+#: vc_extend/font-icons.php:686
+msgid "Social twitter outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:687
+msgid "Social usd"
+msgstr ""
+
+#: vc_extend/font-icons.php:688
+msgid "Social usd outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:689
+msgid "Social vimeo"
+msgstr ""
+
+#: vc_extend/font-icons.php:690
+msgid "Social vimeo outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:691
+msgid "Social whatsapp"
+msgstr ""
+
+#: vc_extend/font-icons.php:692
+msgid "Social whatsapp outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:693
+msgid "Social windows"
+msgstr ""
+
+#: vc_extend/font-icons.php:694
+msgid "Social windows outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:695
+msgid "Social wordpress"
+msgstr ""
+
+#: vc_extend/font-icons.php:696
+msgid "Social wordpress outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:697
+msgid "Social yahoo"
+msgstr ""
+
+#: vc_extend/font-icons.php:698
+msgid "Social yahoo outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:699
+msgid "Social yen"
+msgstr ""
+
+#: vc_extend/font-icons.php:700
+msgid "Social yen outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:701
+msgid "Social youtube"
+msgstr ""
+
+#: vc_extend/font-icons.php:702
+msgid "Social youtube outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:703
+msgid "Soup can"
+msgstr ""
+
+#: vc_extend/font-icons.php:704
+msgid "Soup can outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:705
+msgid "Speakerphone"
+msgstr ""
+
+#: vc_extend/font-icons.php:706 vc_extend/font-icons.php:830
+msgid "Speedometer"
+msgstr ""
+
+#: vc_extend/font-icons.php:707
+msgid "Spoon"
+msgstr ""
+
+#: vc_extend/font-icons.php:708
+msgid "Star"
+msgstr ""
+
+#: vc_extend/font-icons.php:709
+msgid "Stats bars"
+msgstr ""
+
+#: vc_extend/font-icons.php:710
+msgid "Steam"
+msgstr ""
+
+#: vc_extend/font-icons.php:711
+msgid "Stop"
+msgstr ""
+
+#: vc_extend/font-icons.php:712
+msgid "Thermometer"
+msgstr ""
+
+#: vc_extend/font-icons.php:713
+msgid "Thumbsdown"
+msgstr ""
+
+#: vc_extend/font-icons.php:714
+msgid "Thumbsup"
+msgstr ""
+
+#: vc_extend/font-icons.php:715
+msgid "Toggle"
+msgstr ""
+
+#: vc_extend/font-icons.php:716
+msgid "Toggle filled"
+msgstr ""
+
+#: vc_extend/font-icons.php:717
+msgid "Transgender"
+msgstr ""
+
+#: vc_extend/font-icons.php:718
+msgid "Trash a"
+msgstr ""
+
+#: vc_extend/font-icons.php:719
+msgid "Trash b"
+msgstr ""
+
+#: vc_extend/font-icons.php:720 vc_extend/font-icons.php:784
+msgid "Trophy"
+msgstr ""
+
+#: vc_extend/font-icons.php:721
+msgid "Tshirt"
+msgstr ""
+
+#: vc_extend/font-icons.php:722
+msgid "Tshirt outline"
+msgstr ""
+
+#: vc_extend/font-icons.php:723
+msgid "Umbrella"
+msgstr ""
+
+#: vc_extend/font-icons.php:724
+msgid "University"
+msgstr ""
+
+#: vc_extend/font-icons.php:725
+msgid "Unlocked"
+msgstr ""
+
+#: vc_extend/font-icons.php:726 vc_extend/font-icons.php:825
+msgid "Upload"
+msgstr ""
+
+#: vc_extend/font-icons.php:727
+msgid "Usb"
+msgstr ""
+
+#: vc_extend/font-icons.php:728
+msgid "Videocamera"
+msgstr ""
+
+#: vc_extend/font-icons.php:729
+msgid "Volume high"
+msgstr ""
+
+#: vc_extend/font-icons.php:730
+msgid "Volume low"
+msgstr ""
+
+#: vc_extend/font-icons.php:731
+msgid "Volume medium"
+msgstr ""
+
+#: vc_extend/font-icons.php:732
+msgid "Volume mute"
+msgstr ""
+
+#: vc_extend/font-icons.php:733
+msgid "Wand"
+msgstr ""
+
+#: vc_extend/font-icons.php:734
+msgid "Waterdrop"
+msgstr ""
+
+#: vc_extend/font-icons.php:735
+msgid "Wifi"
+msgstr ""
+
+#: vc_extend/font-icons.php:736
+msgid "Wineglass"
+msgstr ""
+
+#: vc_extend/font-icons.php:737
+msgid "Woman"
+msgstr ""
+
+#: vc_extend/font-icons.php:738
+msgid "Wrench"
+msgstr ""
+
+#: vc_extend/font-icons.php:739
+msgid "Xbox"
+msgstr ""
+
+#: vc_extend/font-icons.php:749
+msgid "Mobile"
+msgstr ""
+
+#: vc_extend/font-icons.php:751 vc_extend/init.php:702
+msgid "Desktop"
+msgstr ""
+
+#: vc_extend/font-icons.php:752
+msgid "Tablet"
+msgstr ""
+
+#: vc_extend/font-icons.php:753
+msgid "Phone"
+msgstr ""
+
+#: vc_extend/font-icons.php:755
+msgid "Documents"
+msgstr ""
+
+#: vc_extend/font-icons.php:758
+msgid "Newspaper"
+msgstr ""
+
+#: vc_extend/font-icons.php:759
+msgid "Notebook"
+msgstr ""
+
+#: vc_extend/font-icons.php:760
+msgid "Book open"
+msgstr ""
+
+#: vc_extend/font-icons.php:761
+msgid "Browser"
+msgstr ""
+
+#: vc_extend/font-icons.php:763
+msgid "Presentation"
+msgstr ""
+
+#: vc_extend/font-icons.php:764
+msgid "Picture"
+msgstr ""
+
+#: vc_extend/font-icons.php:765
+msgid "Pictures"
+msgstr ""
+
+#: vc_extend/font-icons.php:769
+msgid "Toolbox"
+msgstr ""
+
+#: vc_extend/font-icons.php:771
+msgid "Wallet"
+msgstr ""
+
+#: vc_extend/font-icons.php:772
+msgid "Gift"
+msgstr ""
+
+#: vc_extend/font-icons.php:773
+msgid "Bargraph"
+msgstr ""
+
+#: vc_extend/font-icons.php:775
+msgid "Expand"
+msgstr ""
+
+#: vc_extend/font-icons.php:776
+msgid "Focus"
+msgstr ""
+
+#: vc_extend/font-icons.php:778
+msgid "Adjustments"
+msgstr ""
+
+#: vc_extend/font-icons.php:779
+msgid "Ribbon"
+msgstr ""
+
+#: vc_extend/font-icons.php:780
+msgid "Hourglass"
+msgstr ""
+
+#: vc_extend/font-icons.php:781
+msgid "Lock"
+msgstr ""
+
+#: vc_extend/font-icons.php:782
+msgid "Megaphone"
+msgstr ""
+
+#: vc_extend/font-icons.php:783
+msgid "Shield"
+msgstr ""
+
+#: vc_extend/font-icons.php:787
+msgid "Puzzle"
+msgstr ""
+
+#: vc_extend/font-icons.php:788
+msgid "Basket"
+msgstr ""
+
+#: vc_extend/font-icons.php:789
+msgid "Envelope"
+msgstr ""
+
+#: vc_extend/font-icons.php:790
+msgid "Street Sign"
+msgstr ""
+
+#: vc_extend/font-icons.php:791
+msgid "Telescope"
+msgstr ""
+
+#: vc_extend/font-icons.php:792
+msgid "Gears"
+msgstr ""
+
+#: vc_extend/font-icons.php:795
+msgid "Attachment"
+msgstr ""
+
+#: vc_extend/font-icons.php:796
+msgid "Price Tags"
+msgstr ""
+
+#: vc_extend/font-icons.php:797
+msgid "Light Bulb"
+msgstr ""
+
+#: vc_extend/font-icons.php:798
+msgid "Layers"
+msgstr ""
+
+#: vc_extend/font-icons.php:799
+msgid "Pencil"
+msgstr ""
+
+#: vc_extend/font-icons.php:800
+msgid "Tools"
+msgstr ""
+
+#: vc_extend/font-icons.php:801
+msgid "Tools 2"
+msgstr ""
+
+#: vc_extend/font-icons.php:803
+msgid "Paint Brush"
+msgstr ""
+
+#: vc_extend/font-icons.php:804
+msgid "Magnifying Glass"
+msgstr ""
+
+#: vc_extend/font-icons.php:805
+msgid "Circle Compass"
+msgstr ""
+
+#: vc_extend/font-icons.php:806
+msgid "Linegraph"
+msgstr ""
+
+#: vc_extend/font-icons.php:807
+msgid "Mic"
+msgstr ""
+
+#: vc_extend/font-icons.php:808
+msgid "Strategy"
+msgstr ""
+
+#: vc_extend/font-icons.php:810
+msgid "Caution"
+msgstr ""
+
+#: vc_extend/font-icons.php:811
+msgid "Recycle"
+msgstr ""
+
+#: vc_extend/font-icons.php:812
+msgid "Anchor"
+msgstr ""
+
+#: vc_extend/font-icons.php:813
+msgid "Profile Male"
+msgstr ""
+
+#: vc_extend/font-icons.php:814
+msgid "Profile Female"
+msgstr ""
+
+#: vc_extend/font-icons.php:815
+msgid "Bike"
+msgstr ""
+
+#: vc_extend/font-icons.php:816
+msgid "Wine"
+msgstr ""
+
+#: vc_extend/font-icons.php:817
+msgid "Hot Air Balloon"
+msgstr ""
+
+#: vc_extend/font-icons.php:818
+msgid "Globe"
+msgstr ""
+
+#: vc_extend/font-icons.php:819
+msgid "Genius"
+msgstr ""
+
+#: vc_extend/font-icons.php:820
+msgid "Map Pin"
+msgstr ""
+
+#: vc_extend/font-icons.php:821
+msgid "Dial"
+msgstr ""
+
+#: vc_extend/font-icons.php:822
+msgid "Chat"
+msgstr ""
+
+#: vc_extend/font-icons.php:826
+msgid "Download"
+msgstr ""
+
+#: vc_extend/font-icons.php:827
+msgid "Target"
+msgstr ""
+
+#: vc_extend/font-icons.php:828
+msgid "Hazardous"
+msgstr ""
+
+#: vc_extend/font-icons.php:829
+msgid "Pie Chart"
+msgstr ""
+
+#: vc_extend/font-icons.php:831
+msgid "Global"
+msgstr ""
+
+#: vc_extend/font-icons.php:833
+msgid "Life Saver"
+msgstr ""
+
+#: vc_extend/font-icons.php:837
+msgid "Scope"
+msgstr ""
+
+#: vc_extend/font-icons.php:838
+msgid "Alarm Clock"
+msgstr ""
+
+#: vc_extend/font-icons.php:844
+msgid "Google Plus"
+msgstr ""
+
+#: vc_extend/font-icons.php:845
+msgid "RSS"
+msgstr ""
+
+#: vc_extend/font-icons.php:846
+msgid "Tumblr"
+msgstr ""
+
+#: vc_extend/font-icons.php:847
+msgid "Linkedin"
+msgstr ""
+
+#: vc_extend/font-icons.php:848
+msgid "Dribbble"
+msgstr ""
+
+#: vc_extend/init.php:147
+msgid "UiKit Animations"
+msgstr ""
+
+#: vc_extend/init.php:150
+msgid "Fade"
+msgstr ""
+
+#: vc_extend/init.php:154
+msgid "Scale Up"
+msgstr ""
+
+#: vc_extend/init.php:158
+msgid "Scale Down"
+msgstr ""
+
+#: vc_extend/init.php:162
+msgid "Slide Top"
+msgstr ""
+
+#: vc_extend/init.php:166
+msgid "Slide Bottom"
+msgstr ""
+
+#: vc_extend/init.php:170
+msgid "Slide Left"
+msgstr ""
+
+#: vc_extend/init.php:174
+msgid "Slide Right"
+msgstr ""
+
+#: vc_extend/init.php:178
+msgid "Slide Top Small"
+msgstr ""
+
+#: vc_extend/init.php:182
+msgid "Slide Bottom Small"
+msgstr ""
+
+#: vc_extend/init.php:186
+msgid "Slide Left Small"
+msgstr ""
+
+#: vc_extend/init.php:190
+msgid "Slide Right Small"
+msgstr ""
+
+#: vc_extend/init.php:194
+msgid "Slide Top Medium"
+msgstr ""
+
+#: vc_extend/init.php:198
+msgid "Slide Bottom Medium"
+msgstr ""
+
+#: vc_extend/init.php:202
+msgid "Slide Left Medium"
+msgstr ""
+
+#: vc_extend/init.php:206
+msgid "Slide Right Medium"
+msgstr ""
+
+#: vc_extend/init.php:210
+msgid "Kenburns"
+msgstr ""
+
+#: vc_extend/init.php:214
+msgid "Shake"
+msgstr ""
+
+#: vc_extend/init.php:291
+msgid "Date Desc"
+msgstr ""
+
+#: vc_extend/init.php:292
+msgid "Date Asc"
+msgstr ""
+
+#: vc_extend/init.php:293
+msgid "Title Desc"
+msgstr ""
+
+#: vc_extend/init.php:294
+msgid "Title Asc"
+msgstr ""
+
+#: vc_extend/init.php:295
+msgid "Random"
+msgstr ""
+
+#: vc_extend/init.php:299
+msgid "H1"
+msgstr ""
+
+#: vc_extend/init.php:300
+msgid "H2"
+msgstr ""
+
+#: vc_extend/init.php:301
+msgid "H3"
+msgstr ""
+
+#: vc_extend/init.php:302
+msgid "H4"
+msgstr ""
+
+#: vc_extend/init.php:303
+msgid "H5"
+msgstr ""
+
+#: vc_extend/init.php:304
+msgid "H6"
+msgstr ""
+
+#: vc_extend/init.php:311
+msgid "Button Link & Text"
+msgstr ""
+
+#: vc_extend/init.php:313
+msgid "url:#|title:Your%20Button"
+msgstr ""
+
+#: vc_extend/init.php:317
+msgid "Button Color"
+msgstr ""
+
+#: vc_extend/init.php:324
+msgid "Button Size"
+msgstr ""
+
+#: vc_extend/init.php:332
+msgid "Button Style"
+msgstr ""
+
+#: vc_extend/init.php:335
+msgid "Border"
+msgstr ""
+
+#: vc_extend/init.php:336
+msgid "Flat"
+msgstr ""
+
+#: vc_extend/init.php:337
+msgid "Border + Radius"
+msgstr ""
+
+#: vc_extend/init.php:338
+msgid "Flat + Radius"
+msgstr ""
+
+#: vc_extend/init.php:349
+msgid "White Hover"
+msgstr ""
+
+#: vc_extend/init.php:350
+msgid "Invert Colors"
+msgstr ""
+
+#: vc_extend/init.php:358
+msgid "Button Margin"
+msgstr ""
+
+#: vc_extend/init.php:361
+msgid "Top , Right , Bottom , Left (0,10,0,0 etc)"
+msgstr ""
+
+#: vc_extend/init.php:365
+msgid "Animate Icon on Hover?"
+msgstr ""
+
+#: vc_extend/init.php:372
+msgid "Set Target"
+msgstr ""
+
+#: vc_extend/init.php:375
+msgid "Blank"
+msgstr ""
+
+#: vc_extend/init.php:376
+msgid "Self"
+msgstr ""
+
+#: vc_extend/init.php:385
+msgid "Choose Library, Set Icon"
+msgstr ""
+
+#: vc_extend/init.php:388
+msgid "Elegant Themes"
+msgstr ""
+
+#: vc_extend/init.php:389
+msgid "Ion Icons"
+msgstr ""
+
+#: vc_extend/init.php:390
+msgid "Font Awesome"
+msgstr ""
+
+#: vc_extend/init.php:391
+msgid "Open Iconic"
+msgstr ""
+
+#: vc_extend/init.php:392
+msgid "Typicons"
+msgstr ""
+
+#: vc_extend/init.php:393
+msgid "Entypo"
+msgstr ""
+
+#: vc_extend/init.php:394
+msgid "Linecons"
+msgstr ""
+
+#: vc_extend/init.php:401 vc_extend/init.php:416 vc_extend/init.php:431
+#: vc_extend/init.php:445 vc_extend/init.php:460 vc_extend/init.php:475
+#: vc_extend/init.php:490
+msgid "Icon"
+msgstr ""
+
+#: vc_extend/init.php:505
+msgid "Thumbnail Image"
+msgstr ""
+
+#: vc_extend/init.php:517
+msgid "Font Color"
+msgstr ""
+
+#: vc_extend/init.php:526
+msgid "Icon Background Color"
+msgstr ""
+
+#: vc_extend/init.php:540
+msgid "Style 4"
+msgstr ""
+
+#: vc_extend/init.php:541
+msgid "Style 5"
+msgstr ""
+
+#: vc_extend/init.php:546 vc_extend/init.php:761
+msgid "Animation"
+msgstr ""
+
+#: vc_extend/init.php:547
+msgid "Extra"
+msgstr ""
+
+#: vc_extend/init.php:548
+msgid "Styling"
+msgstr ""
+
+#: vc_extend/init.php:549
+msgid "Responsive"
+msgstr ""
+
+#: vc_extend/init.php:550 widgets/widget_instagram.php:89
+msgid "Carousel"
+msgstr ""
+
+#: vc_extend/init.php:552
+msgid "Customize"
+msgstr ""
+
+#: vc_extend/init.php:553
+msgid "Font"
+msgstr ""
+
+#: vc_extend/init.php:560
+msgid "Height Full Screen?"
+msgstr ""
+
+#: vc_extend/init.php:563
+msgid "No"
+msgstr ""
+
+#: vc_extend/init.php:564
+msgid "Fullscreen"
+msgstr ""
+
+#: vc_extend/init.php:565
+msgid "Fullscreen Offset"
+msgstr ""
+
+#: vc_extend/init.php:566 vc_extend/init.php:571
+msgid "Custom Min Height"
+msgstr ""
+
+#: vc_extend/init.php:595
+msgid "Margin"
+msgstr ""
+
+#: vc_extend/init.php:602
+msgid "Center ?"
+msgstr ""
+
+#: vc_extend/init.php:614
+msgid "Dots ?"
+msgstr ""
+
+#: vc_extend/init.php:622
+msgid "Dots Each ?"
+msgstr ""
+
+#: vc_extend/init.php:634
+msgid "Nav ?"
+msgstr ""
+
+#: vc_extend/init.php:642
+msgid "Loop ?"
+msgstr ""
+
+#: vc_extend/init.php:650
+msgid "Auto Width ?"
+msgstr ""
+
+#: vc_extend/init.php:658
+msgid "Autoplay ?"
+msgstr ""
+
+#: vc_extend/init.php:666
+msgid "Autoplay Hover Pause ?"
+msgstr ""
+
+#: vc_extend/init.php:678
+msgid "Autoplay Timeout"
+msgstr ""
+
+#: vc_extend/init.php:695
+msgid "Large Screens"
+msgstr ""
+
+#: vc_extend/init.php:697 vc_extend/init.php:704 vc_extend/init.php:711
+#: vc_extend/init.php:718
+msgid "Hide"
+msgstr ""
+
+#: vc_extend/init.php:709
+msgid "Tablet Landscape"
+msgstr ""
+
+#: vc_extend/init.php:716
+msgid "Mobile Landscape"
+msgstr ""
+
+#: vc_extend/init.php:727
+#, php-format
+msgid ""
+"Check out the UiKit <a href=\"%s\">Parallax Documentation</a> and then you can "
+"see it more. Example: bgy: -200;"
+msgstr ""
+
+#: vc_extend/init.php:739
+msgid ""
+"Example:0.4 - It means 40% Opacity. If you set the Background Color with Image "
+"then you can set the Opacity here and Your Images will cover your Background "
+"Color."
+msgstr ""
+
+#: vc_extend/init.php:745
+msgid "Youtube or Vimeo Insert on Background"
+msgstr ""
+
+#: vc_extend/init.php:748
+msgid ""
+"Here you can insert Full Youtube or Vimeo Video Links. Example: https://www."
+"youtube.com/watch?v=OgJMJhO4pKM"
+msgstr ""
+
+#: vc_extend/init.php:755
+msgid "CSS box"
+msgstr ""
+
+#: vc_extend/init.php:781
+msgid "Animation Delay"
+msgstr ""
+
+#: vc_extend/init.php:785
+msgid ""
+"Animation will start after this Delay. Example: 300. Note: Delay will not work "
+"UiKit Animations"
+msgstr ""
+
+#: vc_extend/init.php:794
+msgid "Animation Repeat"
+msgstr ""
+
+#: vc_extend/init.php:805
+msgid "Insert UiKit Animation?"
+msgstr ""
+
+#: vc_extend/init.php:813
+msgid "Animation Custom Field"
+msgstr ""
+
+#: vc_extend/init.php:816
+#, php-format
+msgid ""
+"Check out the UiKit <a href=\"%s\">Scrollspy Documentation</a> and then you can "
+"see it more. Example: target: > div; cls:uk-animation-fade; delay: 200;"
+msgstr ""
+
+#: vc_extend/init.php:826
+msgid "Custom Class"
+msgstr ""
+
+#: vc_extend/init.php:834
+msgid "Custom ID"
+msgstr ""
+
+#: vc_extend/init.php:837
+msgid ""
+"Note this option will help you build OnePage Scroll. Example: about. Then you "
+"should trigger this ID with OnePage Menu with #about link."
+msgstr ""
+
+#: vc_extend/init.php:842
+msgid "Add Uk-Light class?"
+msgstr ""
+
+#: vc_extend/init.php:845
+msgid "Inverse component Colors when displaying the image on dark backgrounds "
+msgstr ""
+
+#: vc_extend/init.php:862
+msgid "Main Title Font Customize from Google Font?"
+msgstr ""
+
+#: vc_extend/init.php:865
+msgid "You can choose from 500+ Custom Google Web Fonts."
+msgstr ""
+
+#: vc_extend/init.php:869
+msgid "Set Font Size - Digit Only"
+msgstr ""
+
+#: vc_extend/init.php:880
+msgid "Set Letter Spacing - Digit Only"
+msgstr ""
+
+#: vc_extend/init.php:883
+msgid "Please Note the EM value will replaced in and 1em = 1000 Photoshop value."
+msgstr ""
+
+#: vc_extend/init.php:892
+msgid "Set Text Transform"
+msgstr ""
+
+#: vc_extend/init.php:896
+msgid "Uppercase"
+msgstr ""
+
+#: vc_extend/init.php:897
+msgid "Lowercase"
+msgstr ""
+
+#: vc_extend/init.php:898
+msgid "Capitalize"
+msgstr ""
+
+#: vc_extend/init.php:910
+msgid "Wanna Insert custom Margin?"
+msgstr ""
+
+#: vc_extend/init.php:913
+msgid "Insert Full margin value like following: Example: 10px 0 0 10px"
+msgstr ""
+
+#: vc_extend/waves-templates.php:20
+msgid "Contact"
+msgstr ""
+
+#: vc_extend/waves-templates.php:24
+msgid "Counter"
+msgstr ""
+
+#: vc_extend/waves-templates.php:28 vc_extend/waves-templates.php:318
+msgid "Flipbox"
+msgstr ""
+
+#: vc_extend/waves-templates.php:32
+msgid "Footer"
+msgstr ""
+
+#: vc_extend/waves-templates.php:36
+msgid "HTML"
+msgstr ""
+
+#: vc_extend/waves-templates.php:40 vc_extend/waves-templates.php:276
+#: vc_extend/waves-templates.php:724 vc_extend/waves-templates.php:733
+msgid "Iconbox"
+msgstr ""
+
+#: vc_extend/waves-templates.php:44 vc_extend/waves-templates.php:342
+msgid "Open Job"
+msgstr ""
+
+#: vc_extend/waves-templates.php:52
+msgid "Pricing"
+msgstr ""
+
+#: vc_extend/waves-templates.php:56 vc_extend/waves-templates.php:387
+msgid "Service"
+msgstr ""
+
+#: vc_extend/waves-templates.php:60
+msgid "Shop"
+msgstr ""
+
+#: vc_extend/waves-templates.php:68 vc_extend/waves-templates.php:495
+msgid "Table"
+msgstr ""
+
+#: vc_extend/waves-templates.php:76 vc_extend/waves-templates.php:360
+#: vc_extend/waves-templates.php:807 vc_extend/waves-templates.php:816
+msgid "Testimonials"
+msgstr ""
+
+#: vc_extend/waves-templates.php:89
+msgid "Tab Studio"
+msgstr ""
+
+#: vc_extend/waves-templates.php:104
+msgid "Works with Counter"
+msgstr ""
+
+#: vc_extend/waves-templates.php:117
+msgid "Accordion with Image"
+msgstr ""
+
+#: vc_extend/waves-templates.php:126
+msgid "Iconbox with Video"
+msgstr ""
+
+#: vc_extend/waves-templates.php:135
+msgid "Portfolio Grid"
+msgstr ""
+
+#: vc_extend/waves-templates.php:144 vc_extend/waves-templates.php:417
+msgid "Iconbox with Image"
+msgstr ""
+
+#: vc_extend/waves-templates.php:160
+msgid "Counter with Pricing"
+msgstr ""
+
+#: vc_extend/waves-templates.php:169
+msgid "Portfolio with Iconbox"
+msgstr ""
+
+#: vc_extend/waves-templates.php:184
+msgid "Testimonials with Clients"
+msgstr ""
+
+#: vc_extend/waves-templates.php:193
+msgid "Footer Minimal"
+msgstr ""
+
+#: vc_extend/waves-templates.php:202
+msgid "About Us with Counter"
+msgstr ""
+
+#: vc_extend/waves-templates.php:211
+msgid "Video Modal"
+msgstr ""
+
+#: vc_extend/waves-templates.php:220
+msgid "Portfolio Fullwidth"
+msgstr ""
+
+#: vc_extend/waves-templates.php:230
+msgid "Contact Map"
+msgstr ""
+
+#: vc_extend/waves-templates.php:239
+msgid "Service with Images"
+msgstr ""
+
+#: vc_extend/waves-templates.php:252
+msgid "Iconbox with Mockup"
+msgstr ""
+
+#: vc_extend/waves-templates.php:261
+msgid "Iconbox with Service"
+msgstr ""
+
+#: vc_extend/waves-templates.php:305 vc_extend/waves-templates.php:442
+msgid "Contact Form"
+msgstr ""
+
+#: vc_extend/waves-templates.php:333 vc_extend/waves-templates.php:378
+msgid "Portfolio with Right Filter"
+msgstr ""
+
+#: vc_extend/waves-templates.php:351
+msgid "Video with Callout"
+msgstr ""
+
+#: vc_extend/waves-templates.php:369 vc_extend/waves-templates.php:583
+msgid "Image with Accordion"
+msgstr ""
+
+#: vc_extend/waves-templates.php:433
+msgid "Video with Progress bar"
+msgstr ""
+
+#: vc_extend/waves-templates.php:451 vc_extend/waves-templates.php:592
+msgid "Iconbox with Heading"
+msgstr ""
+
+#: vc_extend/waves-templates.php:468
+msgid "Upcoming Events"
+msgstr ""
+
+#: vc_extend/waves-templates.php:477
+msgid "Music with Video"
+msgstr ""
+
+#: vc_extend/waves-templates.php:486
+msgid "Portfolio 3 Column"
+msgstr ""
+
+#: vc_extend/waves-templates.php:516
+msgid "Product Carousel"
+msgstr ""
+
+#: vc_extend/waves-templates.php:525
+msgid "Portfolio Masonry"
+msgstr ""
+
+#: vc_extend/waves-templates.php:534
+msgid "Video with Iconbox"
+msgstr ""
+
+#: vc_extend/waves-templates.php:552
+msgid "Medical Introduction"
+msgstr ""
+
+#: vc_extend/waves-templates.php:609
+msgid "Course HTML"
+msgstr ""
+
+#: vc_extend/waves-templates.php:634
+msgid "Post Carousel"
+msgstr ""
+
+#: vc_extend/waves-templates.php:643
+msgid "Post Carousel - Band Home"
+msgstr ""
+
+#: vc_extend/waves-templates.php:652
+msgid "Post Carousel - Business Home"
+msgstr ""
+
+#: vc_extend/waves-templates.php:661
+msgid "Post Carousel - Minimal Home"
+msgstr ""
+
+#: vc_extend/waves-templates.php:670 vc_extend/waves-templates.php:688
+#: vc_extend/waves-templates.php:706
+msgid "Footer with Clients"
+msgstr ""
+
+#: vc_extend/waves-templates.php:768
+msgid "Team - Home Fitness"
+msgstr ""
+
+#: vc_extend/waves-templates.php:777
+msgid "Team with Service"
+msgstr ""
+
+#: vc_extend/waves-templates.php:787 vc_extend/waves-templates.php:797
+msgid "Testimonials with Counter"
+msgstr ""
+
+#: vc_extend/waves-templates.php:825 vc_extend/waves-templates.php:834
+msgid "Testimonials Style"
+msgstr ""
+
+#: vc_extend/waves-templates.php:851
+msgid "ThemeWaves Template Studio"
+msgstr ""
+
+#: vc_extend/waves-templates.php:852
+msgid "Click the Open Templates and Add on that list."
+msgstr ""
+
+#: vc_extend/waves-templates.php:884
+msgid "All"
+msgstr ""
+
+#: vc_extend/waves-templates.php:891
+msgid "No title"
+msgstr ""
+
+#: vc_extend/waves-templates.php:970
+msgid "Template Not Found !!!"
+msgstr ""
+
+#: widgets/widget_categories.php:73 widgets/widget_contact.php:78
+#: widgets/widget_post.php:132
+msgid "Title:"
+msgstr ""
+
+#: widgets/widget_categories.php:76 widgets/widget_post.php:143
+msgid "If you were not selected for cats, it will show all categories."
+msgstr ""
+
+#: widgets/widget_categories.php:89
+msgid "Show post counts"
+msgstr ""
+
+#: widgets/widget_categories.php:93
+msgid "Show hierarchy"
+msgstr ""
+
+#: widgets/widget_contact.php:5
+msgid "Lvly: Contact info"
+msgstr ""
+
+#: widgets/widget_contact.php:5
+msgid "Displays your contact us info"
+msgstr ""
+
+#: widgets/widget_contact.php:82
+msgid "Address:"
+msgstr ""
+
+#: widgets/widget_contact.php:86
+msgid "Phone number:"
+msgstr ""
+
+#: widgets/widget_contact.php:90
+msgid "Email:"
+msgstr ""
+
+#: widgets/widget_contact.php:94
+msgid "Email link url:"
+msgstr ""
+
+#: widgets/widget_contact.php:98
+msgid "Web:"
+msgstr ""
+
+#: widgets/widget_contact.php:102
+msgid "Web link url:"
+msgstr ""
+
+#: widgets/widget_contact.php:106
+msgid "Facebook:"
+msgstr ""
+
+#: widgets/widget_contact.php:110
+msgid "Facebook link url:"
+msgstr ""
+
+#: widgets/widget_instagram.php:5
+msgid "Lvly: Instagram"
+msgstr ""
+
+#: widgets/widget_instagram.php:5
+msgid "Displays your latest Instagram photos"
+msgstr ""
+
+#: widgets/widget_instagram.php:70 widgets/widget_twitter.php:95
+msgid "Username"
+msgstr ""
+
+#: widgets/widget_instagram.php:71
+msgid "Number of photos"
+msgstr ""
+
+#: widgets/widget_instagram.php:72
+msgid "Photo size"
+msgstr ""
+
+#: widgets/widget_instagram.php:74
+msgid "Thumbnail"
+msgstr ""
+
+#: widgets/widget_instagram.php:77
+msgid "Original"
+msgstr ""
+
+#: widgets/widget_instagram.php:80
+msgid "Open links in"
+msgstr ""
+
+#: widgets/widget_instagram.php:82
+msgid "New window (_blank)"
+msgstr ""
+
+#: widgets/widget_instagram.php:83
+msgid "Current window (_self)"
+msgstr ""
+
+#: widgets/widget_instagram.php:93
+msgid "Carousel Auto Play:"
+msgstr ""
+
+#: widgets/widget_instagram.php:121
+msgid "Unable to communicate with Instagram."
+msgstr ""
+
+#: widgets/widget_instagram.php:124
+msgid "Instagram did not return a 200."
+msgstr ""
+
+#: widgets/widget_instagram.php:130 widgets/widget_instagram.php:135
+#: widgets/widget_instagram.php:138
+msgid "Instagram has returned invalid data."
+msgstr ""
+
+#: widgets/widget_instagram.php:161
+msgid "Instagram Image"
+msgstr ""
+
+#: widgets/widget_instagram.php:191
+msgid "Instagram did not return any images."
+msgstr ""
+
+#: widgets/widget_post.php:77
+msgid "by"
+msgstr ""
+
+#: widgets/widget_post.php:136
+msgid "Post order:"
+msgstr ""
+
+#: widgets/widget_post.php:138
+msgid "Latest posts"
+msgstr ""
+
+#: widgets/widget_post.php:139
+msgid "Popular posts"
+msgstr ""
+
+#: widgets/widget_post.php:140
+msgid "Most commented posts"
+msgstr ""
+
+#: widgets/widget_post.php:155
+msgid "Number of posts to show:"
+msgstr ""
+
+#: widgets/widget_post.php:159
+msgid "Post layout:"
+msgstr ""
+
+#: widgets/widget_post.php:162
+msgid "Carousel posts"
+msgstr ""
+
+#: widgets/widget_post.php:166
+msgid "Height(px), when Post layout is default "
+msgstr ""
+
+#: widgets/widget_socials.php:6
+msgid "Displays your social profile."
+msgstr ""
+
+#: widgets/widget_socials.php:86
+msgid "Select Color"
+msgstr ""
+
+#: widgets/widget_socials.php:95
+msgid "Select Layout"
+msgstr ""
+
+#: widgets/widget_socials.php:103
+msgid "Select Hover"
+msgstr ""
+
+#: widgets/widget_socials.php:113
+msgid ""
+"Enter social links. Example: facebook.com/themewaves. NOTE: Divide value sets "
+"with linebreak \"Enter\""
+msgstr ""
+
+#: widgets/widget_twitter.php:6
+msgid "Lvly: Twitter"
+msgstr ""
+
+#: widgets/widget_twitter.php:6
+msgid "Displays your latest Twitter photos"
+msgstr ""
+
+#: widgets/widget_twitter.php:14
+msgid "Unable to communicate with Twitter."
+msgstr ""
+
+#: widgets/widget_twitter.php:17
+msgid "Twitter did not return a 200."
+msgstr ""
+
+#: widgets/widget_twitter.php:52
+msgid "Twitter did not return any response."
+msgstr ""
+
+#: widgets/widget_twitter.php:77
+msgid " ago"
+msgstr ""
+
+#: widgets/widget_twitter.php:96
+msgid "Number of tweets"
+msgstr ""
